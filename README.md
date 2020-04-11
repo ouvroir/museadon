@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+---
+title: ⌘ museadon
+---
 
-You can use the [editor on GitHub](https://github.com/ouvroir/patrimoine/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# ⌘ museadon
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Éditer cette page](https://github.com/ouvroir/patrimoine/edit/master/about.md)
 
-### Markdown
+L’*Ouvroir du patrimoine* est une initiative destinée à faciliter l’utilisation de solutions numériques simples et facilement mobilisables par la communauté muséale et patrimoniale. C’est un espace contributif qui s’adresse en particulier aux nombreuses institutions de petite taille du riche réseau patrimonial québécois et canadien qui ne disposent pas des moyens informatiques des grands musées. L’initiative s’inspire des [principes du Minimal Computing](https://go-dh.github.io/mincomp/) développés par le Global Outlook::Digital Humanities et favorise les [solutions logicielle libres et ouvertes](https://www.gnu.org/philosophy/free-sw.fr.html).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Qui sommes-nous ?
 
-```markdown
-Syntax highlighted code block
+Cette initiative débutée en 2020 est issue d’une première discussion entre Aubert Landry et Emmanuel Château-Dutier, professeur de muséologie numérique à l’Université de Montréal. Elle mobilise plusieurs de nombreuses contributions volontaires notamment des étudiants du programme conjoint de maîtrise en muséologie de l’Université de Montréal et de l’Université de Québec à Montréal.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ouvroir/patrimoine/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Le caractère Unicode U+2318 (⌘) symbolise l’initiative à la fois par sa simplicité et par sa richesse sémantique. Le nœud de Bowen est également le nœud des amoureux véritables, en tant que logotype il est employé pour indiquer la présence d’un lieu culturel ou d’un point d’intérêt. Ce symbole fit son entrée dans le domaine de l’informatique lorsque [Suzanne Kare](https://kare.com) conçut la première interface graphique du Macintosh d’Apple et l’employa pour la touche Commande, en 1983-1984.

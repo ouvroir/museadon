@@ -33,7 +33,29 @@ En attendant des guides plus spécifiques sur l’organisation du projet, vous p
 
 Vous pouvez proposer un sujet d’article avec une nouvelle issue ([New issue](https://github.com/ouvroir/patrimoine/issues/new)). Tous les articles sont rédigés en plein texte avec la syntaxe [Markdown](https://guides.github.com/features/mastering-markdown/), ce sont de simples fichiers textes.
 
-Afin de créer un nouvel article ou corriger une page du projet, vous devez faire un *fork* du projet sur GitHub. Vous pouvez alors modifier la copie réalisée du répertoire directement dans l’interface de GitHub pour sur votre ordinateur si vous êtes à l’aise avec GitHub. Après avoir enregistré vos modifications avec un message de commit, vous pourrez proposer vos changement sous la forme d’un *pull request*.
+Markdown est une syntaxe légère et facile à utiliser pour styler le texte. Parmi ces règles, on trouve les convention suivantes
+
+```
+Syntax highlighted code block
+
+# Titre de niveau 1
+## Titre de niveau 2
+### Titre de niveau 3
+
+- Liste à point
+- item
+
+1. Liste numérotée
+2. item
+
+Texte en **gras**, en _italique_ et `code`
+
+[Lien](url) et ![Image](src)
+```
+
+Pour en savoir plus sur la syntaxe : [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+**Afin de créer un nouvel article ou corriger une page du projet**, vous devez faire un *fork* du projet sur GitHub. Vous pouvez alors modifier la copie réalisée du répertoire directement dans l’interface de GitHub pour sur votre ordinateur si vous êtes à l’aise avec GitHub. Après avoir enregistré vos modifications avec un message de commit, vous pourrez proposer vos changement sous la forme d’un *pull request*.
 
 Un guide pas-à-pas en français, sera bientôt publié. En attendant, vous pouvez consulter la page suivante :
 
@@ -44,6 +66,8 @@ Vous pouvez par exemple suggérer des modifications en [éditant cette page](htt
 ## Ajouter un lien ou une référence
 
 Pour la maintenance des liens, nous utilisons un groupe bibliographique [Zotero](https://www.zotero.org/ouvroir), un gestionnaire de références bibliographiques libre et open source. N’hésitez pas à créer un compte et déjà collecter des références qui pourront être partagée dans le groupe.
+
+Rejoignez le groupe Zotero : [museadon](https://www.zotero.org/ouvroir)
 
 - [Documentation (fr)](https://www.zotero.org/support/fr/start)
 - [Le blog Zotero francophone](https://zotero.hypotheses.org/)
