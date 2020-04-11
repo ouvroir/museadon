@@ -1,7 +1,3 @@
----
-title: ⌘ museadon
----
-
 # ⌘ museadon
 
 [Éditer cette page](https://github.com/ouvroir/patrimoine/edit/master/about.md)
