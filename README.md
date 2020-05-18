@@ -11,14 +11,3 @@ Cette initiative débutée en 2020 est issue d’une première discussion entre 
 Le caractère Unicode U+2318 (⌘) symbolise l’initiative à la fois par sa simplicité et par sa richesse sémantique. Le nœud de Bowen est également le nœud des amoureux véritables, en tant que logotype il est employé pour indiquer la présence d’un lieu culturel ou d’un point d’intérêt. Ce symbole fit son entrée dans le domaine de l’informatique lorsque [Suzanne Kare](https://kare.com) conçut la première interface graphique du Macintosh d’Apple et l’employa pour la touche Commande, en 1983-1984.
 
 [Page du projet sur GitHub](https://github.com/ouvroir/museadon)
-
-<h1>Latest Posts</h1>
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
