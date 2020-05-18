@@ -69,5 +69,6 @@ Pour la maintenance des liens, nous utilisons un groupe bibliographique [Zotero]
 
 Rejoignez le groupe Zotero : [museadon](https://www.zotero.org/ouvroir)
 
+- [Zotéro en vidéo](https://www.youtube.com/watch?v=bfpg5ZNBpTs&list=PLbV0V9rMS72zNDl3nciaBuvpiGBxirWBr)
 - [Documentation (fr)](https://www.zotero.org/support/fr/start)
 - [Le blog Zotero francophone](https://zotero.hypotheses.org/)
