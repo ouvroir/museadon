@@ -1,3 +1,7 @@
 theme: minima
 title: ⌘ museadon
 description: Solutions informatiques minimales pour les musées et les institutions patrimoniales
+- name: Home
+  link: index.html
+- name: Blog
+  link: /blog.html
