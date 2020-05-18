@@ -1,7 +1,7 @@
 ---
 title: Comment contribuer ?
 since: 2020-04-08
-layout: blog
+layout: post
 ---
 
 # Comment contribuer ?
