@@ -1,6 +1,7 @@
 ---
 title: Comment contribuer ?
 since: 2020-04-08
+layout: blog
 ---
 
 # Comment contribuer ?
@@ -9,7 +10,7 @@ since: 2020-04-08
 
 Le contenu de ce site est produit de manière collaborative et vous pouvez participer à son enrichissement. Contribuer ne nécessite pas de connaissances informatiques particulières même si nous utilisons GitHub une plate-forme qui ne vous est peut-être pas familière.
 
-[GitHub](https://github.com/) est un réseau social de partage de fichiers qui utilise un système de version qui s’appelle [Git](https://git-scm.com/) très utilisé en informatique. La plateforme permet d’organiser la collaboration sur des fichiers mais aussi de publier le site web du projet. 
+[GitHub](https://github.com/) est un réseau social de partage de fichiers qui utilise un système de version qui s’appelle [Git](https://git-scm.com/) très utilisé en informatique. La plateforme permet d’organiser la collaboration sur des fichiers mais aussi de publier le site web du projet.
 
 - [GitHub Guides](https://guides.github.com/)
 - [GitHub Help](https://help.github.com)
