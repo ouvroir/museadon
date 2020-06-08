@@ -1,10 +1,8 @@
 ---
-title: "À propos"
-date: 2020-04-05
-categories: about
+layout: page
+title: À propos
+permalink: /about/
 ---
-
-# À propos
 
 [Éditer cette page](https://github.com/ouvroir/patrimoine/edit/master/about.md)
 

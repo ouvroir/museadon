@@ -1,9 +1,9 @@
 ---
-title: Comment contribuer ?
+layout: page
+title: Comment contribuer ?
+permalink: /contribuer/
 since: 2020-04-08
 ---
-
-# Comment contribuer ?
 
 [Éditer cette page](https://github.com/ouvroir/patrimoine/edit/master/contribuer.md)
 
