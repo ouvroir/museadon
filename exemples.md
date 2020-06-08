@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Initiatives
-permalink: /exemples/
+permalink: /initiatives/
 since: 2020-04-05
 ---
 
@@ -21,4 +21,3 @@ Cette page est à terme destinée à rassembler des exemples inspirants ou des r
 - ... (bientôt)
 
 - [La Fabrique de Patrimoines](http://www.lafabriquedepatrimoines.fr)
-
