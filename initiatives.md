@@ -1,9 +1,11 @@
 ---
-title: Exemples
+layout: page
+title: Initiatives
+permalink: /initiatives/
 since: 2020-04-05
 ---
 
-# Exemples
+[Éditer cette page](https://github.com/ouvroir/museadon/edit/master/initiatives.md)
 
 Cette page est à terme destinée à rassembler des exemples inspirants ou des retours d’expérience. Les articles peuvent prendre la forme d’études de cas ou bien d’entrevues avec des acteurs du milieu.
 
@@ -21,4 +23,3 @@ Cette page est à terme destinée à rassembler des exemples inspirants ou des r
 - ... (bientôt)
 
 - [La Fabrique de Patrimoines](http://www.lafabriquedepatrimoines.fr)
-

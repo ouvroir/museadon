@@ -1,11 +1,11 @@
 ---
-title: Comment contribuer ?
+layout: page
+title: Participer
+permalink: /participer/
 since: 2020-04-08
 ---
 
-# Comment contribuer ?
-
-[Éditer cette page](https://github.com/ouvroir/patrimoine/edit/master/contribuer.md)
+[Éditer cette page](https://github.com/ouvroir/museadon/edit/master/participer.md)
 
 Le contenu de ce site est produit de manière collaborative et vous pouvez participer à son enrichissement. Contribuer ne nécessite pas de connaissances informatiques particulières même si nous utilisons GitHub une plate-forme qui ne vous est peut-être pas familière.
 

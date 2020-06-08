@@ -1,6 +1,11 @@
-﻿# Ressource
+---
+layout: page
+title: Ressources
+permalink: /ressources/
+---
 
-Cette page est *destinée* à accueillir une liste de ressources. 
+[Éditer cette page](https://github.com/ouvroir/museadon/edit/master/ressources.md)
 
-https://www.musees.qc.ca/fr/professionnel/actualites/covid-19-ses-impacts-humains-et-financiers-sur-le-secteur-museal 
+Cette page est *destinée* à accueillir une liste de ressources.
 
+https://www.musees.qc.ca/fr/professionnel/actualites/covid-19-ses-impacts-humains-et-financiers-sur-le-secteur-museal
