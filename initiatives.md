@@ -5,6 +5,8 @@ permalink: /initiatives/
 since: 2020-04-05
 ---
 
+[Éditer cette page](https://github.com/ouvroir/museadon/edit/master/initiatives.md)
+
 Cette page est à terme destinée à rassembler des exemples inspirants ou des retours d’expérience. Les articles peuvent prendre la forme d’études de cas ou bien d’entrevues avec des acteurs du milieu.
 
 ## Musées
