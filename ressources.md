@@ -1,6 +1,9 @@
-﻿# Ressource
+---
+layout: page
+title: Ressources
+permalink: /ressources/
+---
 
-Cette page est *destinée* à accueillir une liste de ressources. 
+Cette page est *destinée* à accueillir une liste de ressources.
 
-https://www.musees.qc.ca/fr/professionnel/actualites/covid-19-ses-impacts-humains-et-financiers-sur-le-secteur-museal 
-
+https://www.musees.qc.ca/fr/professionnel/actualites/covid-19-ses-impacts-humains-et-financiers-sur-le-secteur-museal

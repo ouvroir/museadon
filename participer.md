@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Comment contribuer ?
-permalink: /contribuer/
+title: Participer
+permalink: /participer/
 since: 2020-04-08
 ---
 
