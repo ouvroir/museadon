@@ -1,0 +1,5 @@
+# Muzeodrome une infolettre qui répertorie l'inventivité des musées
+
+![Logo Muzeodrome](https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbec53d25-cc59-4130-b8b7-e414566a9681_256x256.png)
+
+Spécialiste de la muséologie numérique, [Omer Presquer](https://www.omer.mobi/) documente depuis en novembre 2019, [Muzeodrome](https://muzeodrome.substack.com/) une infolettre hebdomadaire consacrée à l'inventivité des musées et des expositions. Il s'agit d'un travail de veille qui met en avant la  présence des musées sur les réseaux sociaux, les solutions que ceux-ci  font de l'usage du numérique, mais aussi de l'observation sensible que  l'auteur porte sur le sujet. Brève, ponctuée d'émojis bien choisis qui  en égayent la lecture, cette lettre paraissant chaque lundi tombe à  point pour commencer la semaine dans de bonnes conditions. Bien qu'il  soit d'abord recommandé de s'abonner il est aussi possible de consulter  les anciennes lettres sur le site dédié.
