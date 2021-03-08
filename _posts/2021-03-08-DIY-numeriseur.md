@@ -10,3 +10,5 @@ Un numériseur DIY, etc.
 Si vous voulez mettre du **texte en gras** et du texte *en italique*. Et puis un [lien hypertexte](http://url.org)
 
 ![My helpful screenshot](/assets/coronamix.jpg)
+
+Ajout d’une ligne de texte.
