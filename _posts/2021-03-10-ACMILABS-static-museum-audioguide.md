@@ -33,7 +33,7 @@ Les avantages de ce modèle d’audioguide statique sont tout de même nombreux 
 
 À ce jour, près de trente personnes ont d’ailleurs utilisé ce code source pour leur propre projet, dont l’Immigration Museum à Melbourne en Australie pour l’exposition [Lustre](https://lustre.guide/) et la National Galleries of Scotland pour l’exposition [A Perfect Chemistry: Photographs by Hill & Adamson](https://audio.nationalgalleries.org/).
 
-N’attendez plus, déployez votre propre audioguide statique dès maintenant en suivant le modèle [ACMI LABS static museum audio guide](https://github.com/ACMILabs/static-museum-audio-guide#getting-started) !
+N’attendez plus, déployez votre propre audioguide statique dès maintenant en suivant le modèle [ACMI LABS static museum audio guide](https://github.com/ACMILabs/static-museum-audio-guide#getting-started).
 
 –––
 
