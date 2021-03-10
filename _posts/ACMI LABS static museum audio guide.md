@@ -5,7 +5,7 @@ title: Le modèle d’audioguide statique pour musée de l’ACMI LABS
 
 L’audioguide est aujourd’hui l’un des outils incontournables de médiation muséale mis à disposition des publics ayant pour vocation l’aide à la visite et l’interprétation des contenus.
 
-> À l’usage, l’audioguide est ainsi porteur de liberté et d’autonomie pour les visiteurs qui interprètent la proposition dans ce sens et non pas comme une contrainte. La logique d’accompagnement l’emporte sur le sentiment d’être assisté, ou « enfermé » dans une logique de parcours dirigiste. L’activité de sélection et d’interprétation des œuvres devient un modèle pour « apprendre des choses » au musée : apprendre à voir et accéder aux savoirs, aux « façons de faire » qui fondent le regard éclairé, à fortiori quand « les objets ne parlent pas d’eux-mêmes. – Sophie Deshayes [1] 
+> À l’usage, l’audioguide est ainsi porteur de liberté et d’autonomie pour les visiteurs qui interprètent la proposition dans ce sens et non pas comme une contrainte. La logique d’accompagnement l’emporte sur le sentiment d’être assisté, ou « enfermé » dans une logique de parcours dirigiste. L’activité de sélection et d’interprétation des œuvres devient un modèle pour « apprendre des choses » au musée : apprendre à voir et accéder aux savoirs, aux « façons de faire » qui fondent le regard éclairé, à fortiori quand « les objets ne parlent pas d’eux-mêmes. – Sophie Deshayes [^1] 
 
 Cependant, habituellement les visiteurs·euses doivent débourser un montant supplémentaire pour emprunter un audioguide au musée et la mise sur pied d’une telle logistique mobilise un nombre certain de ressources. Dans le cadre de l’exposition _Scorsese_ présentée à l'Australian Centre for the Moving Image (ACMI) en 2016, les développeurs Joel Glovier, Andrew Serong et Seb Chan de l’[ACMI LABS](https://labs.acmi.net.au/) se sont ainsi donné pour mission de créer un audioguide statique entièrement gratuit et accessible sur tous les types d’appareils.
 
@@ -35,8 +35,8 @@ N’attendez plus, déployez votre propre audioguide statique dès maintenant en
 
 –––
 
-[1]: Sophie Deshayes, « Interprétation du statut d’un audioguide », Études de communication, no 24, 2001, pp. 71-90. En ligne. < https://journals.openedition.org/edc/995 >.
-[2]: Andrew Serong, « Making the free audio guide for Scorsese », ACMI LABS, 30 mai 2016. En ligne. < https://labs.acmi.net.au/making-the-free-audio-guide-for-scorsese-3cf5398e5658# >.  
-[3]: Gill Hamilton et Fred Saunderson, Open Licensing for Cultural Heritage, London, Facet Publishing, 2017.
-[4]: « Dans le monde de l'informatique, le « backend » désigne toute partie d'un site web ou d'un logiciel que les utilisateurs ne voient pas. Il contraste avec le « frontend », qui fait référence à l'interface utilisateur d'un programme ou d'un site web. Dans la terminologie de la programmation, le backend est la « couche d'accès aux données », tandis que le frontend est la « couche de présentation ». [Traduction libre]. Tiré de Per Christensson, « Backend Definition. » TechTerms, 11 avril 2020. En ligne. < https://techterms.com/definition/backend >.
+[^1]:Sophie Deshayes, « Interprétation du statut d’un audioguide », Études de communication, no 24, 2001, pp. 71-90. En ligne. < https://journals.openedition.org/edc/995 >.
+[2] Andrew Serong, « Making the free audio guide for Scorsese », ACMI LABS, 30 mai 2016. En ligne. < https://labs.acmi.net.au/making-the-free-audio-guide-for-scorsese-3cf5398e5658# >.  
+[3] Gill Hamilton et Fred Saunderson, Open Licensing for Cultural Heritage, London, Facet Publishing, 2017.
+[4] « Dans le monde de l'informatique, le « backend » désigne toute partie d'un site web ou d'un logiciel que les utilisateurs ne voient pas. Il contraste avec le « frontend », qui fait référence à l'interface utilisateur d'un programme ou d'un site web. Dans la terminologie de la programmation, le backend est la « couche d'accès aux données », tandis que le frontend est la « couche de présentation ». [Traduction libre]. Tiré de Per Christensson, « Backend Definition. » TechTerms, 11 avril 2020. En ligne. < https://techterms.com/definition/backend >.
 [5]: Andrew Serong, « An open source museum audio guide », ACMI LABS, 31 mai 2016. En ligne. < https://labs.acmi.net.au/an-open-source-static-museum-audio-guide-4c5cd83dbdcb# >.
