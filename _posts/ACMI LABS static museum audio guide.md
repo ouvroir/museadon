@@ -9,7 +9,7 @@ L’audioguide est aujourd’hui l’un des outils incontournables de médiation
 
 Cependant, habituellement les visiteurs·euses doivent débourser un montant supplémentaire pour emprunter un audioguide au musée et la mise sur pied d’une telle logistique mobilise un nombre certain de ressources. Dans le cadre de l’exposition _Scorsese_ présentée à l'Australian Centre for the Moving Image (ACMI) en 2016, les développeurs Joel Glovier, Andrew Serong et Seb Chan de l’[ACMI LABS](https://labs.acmi.net.au/) se sont ainsi donné pour mission de créer un audioguide statique entièrement gratuit et accessible sur tous les types d’appareils.
 
-![ScorseseAudioguide](lien-image)
+![ScorseseAudioguide](images/ScorseseAudioguide.jpg)
 
 [Scorsese Audio Guide](https://guides.acmi.net.au/scorsese/welcome/)
 
@@ -23,7 +23,7 @@ Le modèle d’audioguide statique pour musée de l’ACMI LABS comprend :
 - Des **pages d’arrêt individuelles** possédant un menu déroulant, un carrousel d’images et un lecteur audio fixe en pied de page.
 - Il est aussi possible d’ajouter une **page simple** renvoyant aux pages du **réseau WiFi captif** de votre institution. 
 
-![DemoStaticAudioguide](lien-image)
+![DemoStaticAudioguide](images/DemoStaticAudioguide.jpg)
 
 [Demo – Static Museum Audio Guide](http://acmilabs.github.io/static-museum-audio-guide/welcome/)
 
