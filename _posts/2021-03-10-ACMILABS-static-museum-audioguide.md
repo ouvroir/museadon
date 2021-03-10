@@ -29,7 +29,7 @@ Le modèle d’audioguide statique pour musée de l’ACMI LABS comprend :
 
 D’un point de vue critique, il est à mentionner que l’usage de cet outil requiert une connexion internet, il nécessite que les publics utilisent leurs propres appareils mobiles, il exclue possiblement celles et ceux qui n’ont pas d’appareil ou qui sont peu confortables avec cette technologie, et une option multilingue est malheureusement manquante.
 
-Les avantages de ce modèle d’audioguide statique sont tout de même nombreux – un _backend_[4] agréable permettant de créer du contenu original ; il est rapide et facile d’utilisation ; il est léger et multiplateforme ; l’hébergement est possible sur [Github](https://github.com/) ou sur un serveur interne ; il permet la récupération de projets existants ; il est peu coûteux à réaliser et son caractère statique demande un maintien minimal et le rend pérenne.[5]
+Les avantages de ce modèle d’audioguide statique sont tout de même nombreux – un _backend_[4] agréable permettant de créer du contenu original ; il est rapide et facile d’utilisation ; il est léger et multiplateforme ; l’hébergement est possible sur [Github](https://github.com/) ou sur un serveur dédié ; il permet la récupération de projets existants ; il est peu coûteux à réaliser et son caractère statique demande un maintien minimal et le rend pérenne.[5]
 
 À ce jour, près de trente personnes ont d’ailleurs utilisé ce code source pour leur propre projet, dont l’Immigration Museum à Melbourne en Australie pour l’exposition [Lustre](https://lustre.guide/) et la National Galleries of Scotland pour l’exposition [A Perfect Chemistry: Photographs by Hill & Adamson](https://audio.nationalgalleries.org/).
 
