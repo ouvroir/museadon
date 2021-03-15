@@ -56,7 +56,7 @@ des smartphones dont la capacité de stockage est limitée.
 Une utilisation à mon sens plus probante toucherait le côté social et événementiel qu'apporterait ce dispositif dans un musée. Peut-être que certains fervents d’archéologie aimeraient pouvoir trouver un espace de forum.
 Aussi d’autres personnes passionnées d’archéologie ou grand archéologue à l’intérieur du musée pourraient interagir avec eux, et surtout faire du musée un endroit pour se rencontrer et discuter.
 Cette démarche d’ouverture et de partage s'inscrit dans un échange des connaissances à tout un chacun, tout public, peu importe sa place dans la société, son type de niveau professionnel,
-son âge, fondent un des objectifs majeurs du monde muséal actuel.!                
+son âge, fondent un des objectifs majeurs du monde muséal actuel.              
 
 ### **Est-ce pour demain ?**     
 Pour finir, un projet plus vaste serait pour les musées de pouvoir mettre en réseau plusieurs de ces dispositifs entre eux qui feraient une sorte de sous-réseau des musées parallèles à internet, tel que le Darknet par exemple .
