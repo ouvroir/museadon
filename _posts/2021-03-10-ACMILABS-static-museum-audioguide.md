@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Le modèle d’audioguide statique pour musée de l’ACMI LABS
+author: Maéli Leblanc-Carreau
 ---
 
 L’audioguide est aujourd’hui l’un des outils incontournables de la médiation muséale. Sa mise à disposition des publics a pour vocation l’aide à la visite et l’interprétation des contenus.
