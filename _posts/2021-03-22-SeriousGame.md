@@ -1,6 +1,6 @@
 ---
-Layout: post
-Title: "Avez-vous pensé aux jeux sérieux ?"
+layout: post
+title: "Avez-vous pensé aux jeux sérieux ?"
 ---
 
 Avez-vous déjà pensé aux “Serious Games” ? Ou jeu sérieux en français ? Mais de quoi s’agit-il ? Comme vous le savez, le public est plus changeant que jamais. Aujourd’hui, il importe de replacer celui-ci au cœur de l’expérience muséale, car c’est ce qu’il vient chercher : une expérience. Les Serious Games (SG), initialement développés dans le domaine militaire, pourraient vous y aider. Le divertissement est ici utilisé comme une méthode et non comme un but, l’objectif étant bien évidemment d’enseigner et de sensibiliser autrement. L’intérêt des SG est tel qu’on le retrouve désormais dans de nombreux secteurs, comme la santé, la publicité, la communication, la politique, l’humanitaire, la défense, la religion, et bien évidemment l’art....
