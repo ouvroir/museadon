@@ -1,8 +1,7 @@
 ---
-layout:  post
-title: La PirateBox
+layout: post
+title: La PirateBox : une solution low-tech pour un échange numérique plus libre ?
 ---
-# **La PirateBox : une solution low-tech pour un échange numérique plus libre ?**
 
 ![piratebox6](https://user-images.githubusercontent.com/77698526/110889574-b1b21f00-82ee-11eb-9e9f-f8c86e3d35a5.jpg)
 
