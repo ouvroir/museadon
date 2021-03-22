@@ -18,20 +18,13 @@ d'apprentissage. En effet, chaque personne peut progresser à son propre rythme 
 
 Pour attirer les visiteurs dans les structures muséales, il n’est donc plus question de présenter les informations sur les œuvres et les objets de manière linéaire, mais bien de placer le visiteur au centre de ce dispositif et de le rendre acteur de sa visite.
 
-**Bibliographie**
+## Bibliographie
 
-Barbieux, C. “Évaluer les effets des dispositifs ludiques destinés aux enfants en visite familiale ”.  _La Lettre de l’OCIM_ , 135 | 2011. URL: http://journals.openedition.org/ocim/870; DOI: https://doi.org/10.4000/ocim.870
-
-Brougère, G. Jouer/Apprendre. _Economica_. p. 176. 2005.
-
-Djaouti, D. Alvarez, J. Rampnoux, O. Apprendre avec les serious games ?. _Réseau Canopé_,  p.127, 2017, Éclairer, 978-2-240-04883-7. https://hal.archives-ouvertes.fr/hal-02533902
-
-Djaouti, D. De l’utilité de l’appellation « Serious Game » Le jeu est-il l’apanage du divertissement ?. _Interfaces numériques_. 2014. http://dx.doi.org/10.25965/interfaces-numeriques.1583
-
-Damien Djaouti, “Serious Games pour l’éducation : utiliser, créer, faire créer ?”, _Tréma_,  44 | 2016. URL: http://journals.openedition.org/trema/3386; DOI: https://doi.org/10.4000/trema.3386
-
-Egenfeldt-Nielsen, S. Overview of research on the educational use of video games. _Digital Kompetanse_, 1(3), pp.184-213. 2006.
-
-Michael, D. Chen, S. Serious Game : games that educate, train and inform. _Course Technology PTR_. p. 312. 2005.
-
-Sanchez, E. Ney, M. Labat, J.-M. Jeux sérieux et pédagogie universitaire: de la conception à l’évaluation des apprentissages.  _Revue Internationale des Technologies en Pédagogie Universitaire, Conférence des recteurs et principaux des universités du Québec [CREPUQ], 2011, Journées scientifiques ”Pédagogie Universitaire Numérique”_ , 8 (1-2), pp.48-57. URL : https://edutice.archives-ouvertes.fr/edutice-00613840/document
+- Barbieux, C. “Évaluer les effets des dispositifs ludiques destinés aux enfants en visite familiale ”.  _La Lettre de l’OCIM_ , 135 | 2011. URL: http://journals.openedition.org/ocim/870; DOI: https://doi.org/10.4000/ocim.870
+- Brougère, G. Jouer/Apprendre. _Economica_. p. 176. 2005.
+- Djaouti, D. Alvarez, J. Rampnoux, O. Apprendre avec les serious games ?. _Réseau Canopé_,  p.127, 2017, Éclairer, 978-2-240-04883-7. https://hal.archives-ouvertes.fr/hal-02533902
+- Djaouti, D. De l’utilité de l’appellation « Serious Game » Le jeu est-il l’apanage du divertissement ?. _Interfaces numériques_. 2014. http://dx.doi.org/10.25965/interfaces-numeriques.1583
+- Damien Djaouti, “Serious Games pour l’éducation : utiliser, créer, faire créer ?”, _Tréma_,  44 | 2016. URL: http://journals.openedition.org/trema/3386; DOI: https://doi.org/10.4000/trema.3386
+- Egenfeldt-Nielsen, S. Overview of research on the educational use of video games. _Digital Kompetanse_, 1(3), pp.184-213. 2006.
+- Michael, D. Chen, S. Serious Game : games that educate, train and inform. _Course Technology PTR_. p. 312. 2005.
+- Sanchez, E. Ney, M. Labat, J.-M. Jeux sérieux et pédagogie universitaire: de la conception à l’évaluation des apprentissages.  _Revue Internationale des Technologies en Pédagogie Universitaire, Conférence des recteurs et principaux des universités du Québec [CREPUQ], 2011, Journées scientifiques ”Pédagogie Universitaire Numérique”_ , 8 (1-2), pp.48-57. URL : https://edutice.archives-ouvertes.fr/edutice-00613840/document
