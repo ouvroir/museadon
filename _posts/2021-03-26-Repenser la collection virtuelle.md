@@ -18,6 +18,9 @@ Cette manière de penser la collection fait partie aussi d’un mouvement muséa
 
 D’autres projets sont aussi à porter davantage pour les plus jeunes alors que d’autres s’adressent à un public savant. Par exemple, un de leur projet d’un style Art-thérapie permet de colorier des œuvres célèbres, ce qui s’adresse plus à un jeune public. Mais il s’y trouve aussi des vidéos immersive sur des autres d’arts, ou l’on se trouve plongée dans l’œuvre et on apprend sur l’artiste, l’époque et la thématique de l’œuvre, ce qui s’adresse à un public différent. Ce qui est sur, c’est que la manière virtuelle de présenter les œuvres dépasse les contraintes traditionnelles d’expositions. D’autre projet de Google Arts permet de voir une vue 3 dimensions sur des artefacts ou encore une précision du détail dans les œuvres remarquables. 
 
+
+![ImageMuseumWorld](https://github.com/ouvroir/museadon/commit/0076ff82094efc1aed7e50741125bb53297bf7de#diff-dbba041bd546a83529158227e27d3b43c21d6f7cb652335deb7add1adc80806a) 
+
 *Le numérique permet de donner une autre vision des objets de collection muséale et une démocratisation du savoir. Toutefois, la présentation des collections virtuelle n’était pas un contexte jusqu’à récemment réfléchi; une simple base de données était accessible aux utilisateurs, ce qui reste très bien pour certaines institutions. Depuis quelques années et davantage à cause de la pandémie, les projets sur les collections démontrent une originalité qui permet de dépasser la réalité. Selon moi, pourquoi représenter la collection de la même manière qu’on le ferait dans une exposition? Pourquoi ne pas saisir l’opportunité que nous offre le numérique pour créer des mondes imaginaires, créatifs, éducatifs et interrelationnels sur les objets de collection? Les possibilités des collections en ligne ouvrent de nouvelles voies sur la manière de créer du contenu scientifique, donc pourquoi ne pas en profiter?*
 
 **BIBLIOGRAPHIE**
