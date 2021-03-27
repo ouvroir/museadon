@@ -14,7 +14,7 @@ Le British Museum s’est démarqué en créant Museum of the World qui est un s
 
 Cinq thématiques puissantes ci retrouvent; Art and design, Living and dying, Power and identity, Religion and belief et Trade and conflict. Le visiteur peut alors parcourir la collection selon des thématiques intéressantes, qui font des liens originaux entre elles. Par exemple, en choisissant le thème Power and identity, l’on se retrouve devant une constellation d’objets provenant d’époque et de lieu différent en débutant par un objet sacré de la Papousie Nouvelle-Guinée du 20e siècle et peut reculer dans le temps sous cette thématique jusqu’en 3000 BC, mettant en scène une tablette d’écriture sumérienne. Entre ces deux objets, une multitude d’autre se font lien. Les liens peuvent se faire autant par l’esthétique de l’objet, que par son sujet, son histoire ou son usage. Chaque objet possède une fiche descriptive, une photographie et un court audioguide sur l’objet par un spécialiste. Sur cette fiche l’on peut aussi voir le lieu d’origine exact de l’objet avec une image et un lien vers Google Map et d’autres images d’objets qui pourraient intéressé/faire des liens avec celui-ci. Cette manière originale de faire des liens « autres » amène une multitude d’options sur la façon de présenter les collections. Contrairement à une base de données banale, le visiteur peut se perdre dans la ligne de temps, apprendre et s’émerveiller des objets.
 
-![ImageMuseum](images/Capture d’écran 2021-03-16 142828.png)
+![Capture d’écran 2021-03-16 142828.png](images/Capture d’écran 2021-03-16 142828.png)
 
 **Les Google Arts and Culture projects**
 
