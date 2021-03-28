@@ -22,8 +22,7 @@ Les styles prédéfinis de Quire permettent un processus de publication allégé
 
 Pour utiliser la version beta de Quire, il suffit de [s’enregistrer](https://docs.google.com/forms/d/e/1FAIpQLScKOJEq9ivhwizmdazjuhxBII-s-5SUsnerWmyF8VteeeRBhA/viewform) pour obtenir une licence gratuite . Une documentation extensive et une série de [tutoriels](https://quire.getty.edu/tutorial/) sont disponibles pour faciliter la production de publications.
 
-1.Foisy, M.-H. (2008). Quelle place pour les publications d’exposition dans les musées ? Muséologies, 2 (2), 44–63. https://doi.org/10.7202/1033588ar![image](https://user-images.githubusercontent.com/77697613/112734810-72a2e100-8f1e-11eb-94c2-191607853af7.png)
-
+1.Foisy, M.-H. (2008). Quelle place pour les publications d’exposition dans les musées ? Muséologies, 2 (2), 44–63.
 
 ## Bibliographie
 
