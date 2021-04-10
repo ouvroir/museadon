@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Se redonner une présence en ligne : les conférences Zoom de la Maison LePailleur
+title: Les conférences Zoom de la Maison LePailleur
 ---
 
 C’est peu dire que la présente pandémie de Covid-19 a grandement affecté les musées. Outre les conséquences financières importantes, la fermeture forcée des musées durant plusieurs mois a aussi mis un frein complet sur tous leurs projets en cours et en devenir. [La Maison LePailleur](http://maisonlepailleur.ca/), un petit musée régional à Châteauguay, s’est toutefois démarquée tandis que ses activités se sont carrément multipliées durant la pandémie. Faute de pouvoir ouvrir ses portes au public, le petit musée s’est tourné vers le développement de son contenu numérique pour se redonner une visibilité.
