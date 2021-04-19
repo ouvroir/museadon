@@ -100,12 +100,12 @@ Autrement, certaines institutions muséales québécoises choisissent de créer 
 
 ### Enregistrer son émission
 
-*Les microphones*
+** Les microphones **
 
 L’équipement nécessaire à la production d’une émission de baladodiffusion est probablement la partie la plus coûteuse du processus de création, et il est évident que pour produire une émission de baladodiffusion, il en faut un convenable. Avec les débuts de la pandémie et le développement du télétravail, la demande pour des microphones a explosé. En conséquence, plusieurs compagnies ont mis sur le marché une panoplie de microphones à faible budget et de bonne qualité.
 À 84,99 dollars canadiens,  le HyperX de Solocast est considéré comme l’un des meilleurs micros en termes de rapport qualité/prix. De fait, il est souvent comparé à plusieurs autres modèles plus dispendieux comme le Talk Go de JLab Audio ou le Seiren Mini de Razer. Alternativement, pour 69,99 dollars canadiens, le Snowball iCE est une autre option très abordable. Par expérience, il est plus que suffisant pour faire un enregistrement de bonne qualité pour une émission. Un peu plus dispendieux, à 80 dollars canadiens, l’UHURU a cependant l’avantage d’avoir un support à directivité cardioïde qui permet d’isoler aisément le son ambiant et favorisant la qualité du son. Ce dernier modèle est principalement adapté pour les joueurs en ligne. Il pourrait ainsi s’avérer un peu encombrant. Toutefois, la qualité sonore est excellente. Finalement, pour les créateurs néophytes, l’avantage de tous ces microphones est leur modèle « plug and go » avec une prise USB compatible pour tous les modèles d’ordinateurs. Il est donc extrêmement facile de les installer sur des ordinateurs. 
 
-*Casque d’écoute*
+** Casque d’écoute **
 
 Autant pour l’enregistrement que pour le montage, un casque d’écoute peut être un outil très important dans la création d’une émission de Balado. Pour les projets à très petit budget, n’importe quelle paire d’écouteurs de bonne qualité peut suffire. Les écouteurs de base fournis par Apple, par exemple, font très bien sortir le son et sont très suffisants pour une émission aux moyens modestes.
 Pour les projets avec un peu plus de budget, nous vous proposons toutefois quelques options de modèles de casque d’écoute qui pourraient servir. L’ATH-M50X (149 dollars canadiens) de la compagnie Audio-Technica est peut-être un peu dispendieux pour les plus petits budgets, mais cela contrebalance pour une excellente qualité audio pour tous les usages. Ce casque est absolument idéal pour favoriser les conditions d’enregistrement et pour monter adéquatement une émission. Il est généralement considéré comme l’un des meilleurs modèles disponibles sur le marché avec un prix accessible pour les consommateurs. Plus abordable, en échange d’un petit sacrifice en termes de qualité, le modèle ATH-M40X est aussi une très bonne option. Ces derniers temps, plusieurs audiophiles conseillent aussi le Sennheiser HD280 Pro (129 dollars canadiens) pour les projets à plus petit budget. Comme les modèles produits par Audio-Technica, c’est un casque parfait pour l’enregistrement et le montage en isolant parfaitement le son ambiant. De plus, il a aussi l’avantage d’être très confortable à porter !
@@ -161,7 +161,7 @@ Depuis quelque temps, le format RSS s’est entièrement adapté au format de la
 * Répertoires de podcasts :* Les répertoires de podcasts permettent aux utilisateurs de recherchés dans podcasts et de s’abonner à ceux-ci. Les répertoires les plus connus sont : Apple podcast, spotify, Google podcast, Stitcher, TuneIn.
 
 
-## RÉFÉRENCES
+## Références
 
 [1] PELTIER, Claire, « Usage des podcasts en milieu universitaire : une revue de la littérature », RITPU, vol. 13 no 2-3, pp. 17-35.
 
