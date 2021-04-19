@@ -180,4 +180,4 @@ Les répertoires de podcasts permettent aux utilisateurs de recherchés dans pod
 
 [5] MARTIN, Raphael,  « Monétisation des podcasts: la parole d’or », dans Nouvelles, 2018. En ligne. [https://www.grenier.qc.ca/nouvelles/16532/monetisation-des-podcast-la-parole-dor](https://www.grenier.qc.ca/nouvelles/16532/monetisation-des-podcast-la-parole-dor). Consulté le 13 avril 2021.
 
-[6] PARTNERS, Christian, « Anchor.fm Review: Read Before Using », dans School of Podcasting, 2019.[https://schoolofpodcasting.com/anchor-fm-review-read-before-using/](https://schoolofpodcasting.com/anchor-fm-review-read-before-using/). Consulté le 18 avril 2021. 
+[6] PARTNERS, Christian, « Anchor.fm Review: Read Before Using », dans School of Podcasting, 2019. En ligne. [https://schoolofpodcasting.com/anchor-fm-review-read-before-using/](https://schoolofpodcasting.com/anchor-fm-review-read-before-using/). Consulté le 18 avril 2021. 
