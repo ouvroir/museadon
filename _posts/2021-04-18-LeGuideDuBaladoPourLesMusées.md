@@ -143,5 +143,3 @@ Depuis quelque temps, le format RSS s’est entièrement adapté au format de la
 [4] YING, Lin, « 10 POWERFUL PODCAST STATISTICS YOU NEED TO KNOW IN 2021 » En ligne. [https://www.oberlo.com/blog/podcast-statistics] (https://www.oberlo.com/blog/podcast-statistics) Consulté le 6 avril 2021
 
 [5] MARTIN, RAPHAEL,  « Monétisation des podcasts: la parole d’or », dans Nouvelles, 2018. En ligne. [https://www.grenier.qc.ca/nouvelles/16532/monetisation-des-podcast-la-parole-dor] (https://www.grenier.qc.ca/nouvelles/16532/monetisation-des-podcast-la-parole-dor). Consulté le 13 avril 2021. 
-
- 
