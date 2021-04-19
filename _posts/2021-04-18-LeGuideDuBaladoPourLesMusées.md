@@ -151,15 +151,20 @@ Depuis quelque temps, le format RSS s’est entièrement adapté au format de la
 
 ## Glossaire 
 
-**Fil/flux RSS :** Abréviation de Really Simple Syndication (Syndication vraiment simple), le fichier RSS, aussi appelé flux RSS, canal RSS ou fil RSS est un format libre et ouvert. Il contient toutes les informations relatives à un podcast et à ses épisodes. Il ne renferme pas le podcast lui-même mais l’adresse de celui-ci (URL) ainsi que toutes les données qui y sont liées (description, couverture, catégories…). Un fil RSS permet d’avoir accès en temps réel à la mise à jour des contenus, ainsi les nouveaux épisodes d’un podcast lié à un fil RSS pourront être téléchargés automatiquement par un agrégateur ou une plateforme d’écoute utilisée par un abonné.
+**Fil/flux RSS :**
+Abréviation de Really Simple Syndication (Syndication vraiment simple), le fichier RSS, aussi appelé flux RSS, canal RSS ou fil RSS est un format libre et ouvert. Il contient toutes les informations relatives à un podcast et à ses épisodes. Il ne renferme pas le podcast lui-même mais l’adresse de celui-ci (URL) ainsi que toutes les données qui y sont liées (description, couverture, catégories…). Un fil RSS permet d’avoir accès en temps réel à la mise à jour des contenus, ainsi les nouveaux épisodes d’un podcast lié à un fil RSS pourront être téléchargés automatiquement par un agrégateur ou une plateforme d’écoute utilisée par un abonné.
 
-**Plateforme d’hébergement :** Il s'agit d'un service permettant de placer, sur un serveur relié au réseau Internet, les différents fichiers et contenus qui constituent un site Web. Les fichiers audio d’un podcast peuvent être hébergés sur un site web. Il existe également des services d’hébergement payants spécialisés pour les podcasts. Ces plateformes, comme Buzzsprout, génèrent automatiquement un flux RSS. 
+**Plateforme d’hébergement :**
+Il s'agit d'un service permettant de placer, sur un serveur relié au réseau Internet, les différents fichiers et contenus qui constituent un site Web. Les fichiers audio d’un podcast peuvent être hébergés sur un site web. Il existe également des services d’hébergement payants spécialisés pour les podcasts. Ces plateformes, comme Buzzsprout, génèrent automatiquement un flux RSS. 
 
-**Musique libre de droit :** Production musicale dont la licence d’utilisation est disponible à l’achat. Suite à l’achat de la licence, un utilisateur peut s’en servir à des fins commerciales sans être tenu de payer des redevances au propriétaire des droits d’auteurs.
+**Musique libre de droit :**
+Production musicale dont la licence d’utilisation est disponible à l’achat. Suite à l’achat de la licence, un utilisateur peut s’en servir à des fins commerciales sans être tenu de payer des redevances au propriétaire des droits d’auteurs.
 
-**Agrégateur :** Logiciel ou application Web qui permet à l'internaute de s'abonner à des fils RSS et de recevoir automatiquement le nouveau contenu des fils répertoriés.
+**Agrégateur :**
+Logiciel ou application Web qui permet à l'internaute de s'abonner à des fils RSS et de recevoir automatiquement le nouveau contenu des fils répertoriés.
 
-**Répertoires de podcasts :** Les répertoires de podcasts permettent aux utilisateurs de recherchés dans podcasts et de s’abonner à ceux-ci. Les répertoires les plus connus sont : Apple podcast, spotify, Google podcast, Stitcher, TuneIn.
+**Répertoires de podcasts :**
+Les répertoires de podcasts permettent aux utilisateurs de recherchés dans podcasts et de s’abonner à ceux-ci. Les répertoires les plus connus sont : Apple podcast, spotify, Google podcast, Stitcher, TuneIn.
 
 
 ## Références
