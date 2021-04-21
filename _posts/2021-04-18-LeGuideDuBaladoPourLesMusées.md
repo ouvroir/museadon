@@ -173,6 +173,13 @@ Depuis quelque temps, le format RSS s’est entièrement adapté au format de la
 - « Top 20 Museum Podcasts You Must Follow in 2021 ». 2019. Feedspot Blog. 5 septembre 2019. http://blog.feedspot.com/museum_podcasts/.
 - Trujillo, Maria. 2019. « The museum podcast: sparking meaningful connections ». Art Critique. 31 décembre. https://www.art-critique.com/en/2019/12/museum-podcasts-sparking-meaningful-connections/.
 
+## Balado et droits
+
+- Cross, Alan. s. d. « Musique et baladodiffusions ». Blogue Socan. Consulté le 21 avril 2021. https://www.socanblog.ca/fr/using-copyrighted-music-in-podcasts/.
+- Frymire, Bob. 2020. « APM Canada - Music Licensing 101: What Podcasters Need to Know ». 22 octobre. https://www.apmmusic.ca/blog/industry/music-licensing-101-what-podcasters-need-to-know.
+- Sutherland, Keith. 195apr. J.-C. « Licensed to Thrive? Podcasting and Copyright Law inCanada ». Canadian Journal of Law and Technology, 13.
+
+
 ## Glossaire 
 
 **Fil/flux RSS :**
