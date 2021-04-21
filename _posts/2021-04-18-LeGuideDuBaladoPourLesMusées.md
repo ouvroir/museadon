@@ -149,6 +149,30 @@ Un RSS Feed (« Really Simple Syndication ») permet d’outrepasser tout au
 
 Depuis quelque temps, le format RSS s’est entièrement adapté au format de la baladodiffusion. Le site internet de RSS offre ainsi un [tutoriel](https://rss.com/blog/how-to-create-an-rss-feed-for-a-podcast/) particulièrement simple et complet pour pouvoir créer son propre « feed » adapté à une émission. Pour les réalisateurs qui ont un peu de patience et qui préfèrent ne pas faire affaire avec d’autres services, créer son propre RSS Feed est définitivement l’option à explorer.
 
+## Articles d’intérêt
+
+- Black, Holly. 2020. « What makes a good museum podcast? A step-by-step guide to getting started ». Museums Association. 21 avril. https://www.museumsassociation.org/museums-journal/in-practice/2020/04/21042020-what-makes-a-good-museum-podcast/.
+
+- Charr, Manuel. 2020. « How to Start a Podcast for Your Museum ». MuseumNext. 24 juillet. https://www.museumnext.com/article/how-to-start-a-podcast-for-your-museum/.
+
+- Hethmon, Hannah. 2019. « Podcasting in 2019: An Introduction for Museums ». Dans MW19. . Boston. https://mw19.mwconf.org/paper/podcasting-in-2019-an-introduction-for-museums/.
+
+- Kennedy, Randy. 2006. « At Museums: Invasion of the Podcasts ». The New York Times, 19 mai 2006, sect. Arts. https://www.nytimes.com/2006/05/19/arts/design/19pod.html.
+
+- « Podcast in Museums ». 2007. MediaMusea. Consulté le 21 avril 2021. https://mediamusea.files.wordpress.com/2007/06/mediamusea-podcast-in-museums.pdf.
+
+## Listes de balados muséaux
+
+- Famiglietti, Nicole. 2018. « These podcasts bring museums to your ears ». Museeum. 18 mai. https://www.museeum.com/these-podcasts-bring-museums-to-your-ears/.
+- « Five of the Best Podcasts About Art and Museums ». s. d. THATMuse. Consulté le 21 avril 2021. https://thatmuse.com/2020/06/26/5-podcasts-about-art-and-museums/.
+- FM, Player. s. d. « Museum Podcasts ». Consulté le 21 avril 2021. https://player.fm/podcasts/Museum.
+- « Give A Listen: 7 Podcasts for Museum Professionals ». s. d. Western Museums Association. Consulté le 21 avril 2021. https://westmuse.org/articles/give-listen-7-podcasts-museum-professionals.
+- Hill, Catherine. 2020. « Eleven Must-Listen Museum Podcasts ». Museum Hack. 25 octobre. https://museumhack.com/eleven-museum-podcasts/.
+- Lusk, Ashley. 2016. « 4 Podcasts That Bring Museum Artifacts to Life ». Medium. 9 novembre. https://bellocollective.com/4-podcasts-that-bring-museum-artifacts-to-life-611ddd0338ad.
+- Oteri, Danielle. 2019. « The Best Museum Podcasts ». TripSavvy. 26 juin. https://www.tripsavvy.com/best-museum-podcasts-4108370.
+- « Top 20 Museum Podcasts You Must Follow in 2021 ». 2019. Feedspot Blog. 5 septembre 2019. http://blog.feedspot.com/museum_podcasts/.
+- Trujillo, Maria. 2019. « The museum podcast: sparking meaningful connections ». Art Critique. 31 décembre. https://www.art-critique.com/en/2019/12/museum-podcasts-sparking-meaningful-connections/.
+
 ## Glossaire 
 
 **Fil/flux RSS :**
