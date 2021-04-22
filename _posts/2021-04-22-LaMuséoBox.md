@@ -5,8 +5,9 @@ author: Maéli Leblanc-Carreau, Alissia Miquet et Juliette Passilly
 ---
 
 ![MuseoBox-logo](http://www.museadon.ca/images/MuseoBox-logo.jpg)
-####« MuséoBox, rejoignez la conversation ! » 
-####De la *Piratebox* à la *MuséoBox*, un outil *low-tech* d'interaction entre musées et publics.
+
+« MuséoBox, rejoignez la conversation ! » 
+De la *Piratebox* à la *MuséoBox*, un outil *low-tech* d'interaction entre musées et publics.
 
 
 ## Introduction
