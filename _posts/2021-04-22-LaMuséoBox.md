@@ -7,6 +7,7 @@ author: Maéli Leblanc-Carreau, Alissia Miquet et Juliette Passilly
 ![MuseoBox-logo](http://www.museadon.ca/images/MuseoBox-logo.jpg)
 
 « MuséoBox, rejoignez la conversation ! » 
+
 De la *Piratebox* à la *MuséoBox*, un outil *low-tech* d'interaction entre musées et publics.
 
 
@@ -40,6 +41,7 @@ Ainsi, dans un souci de respect du projet initial, la licence de la *MuséoBox* 
 
  
 ![MuseoBox-1](http://www.museadon.ca/images/MuseoBox-1.jpg)
+
 Fig. 1. Prototype d’une *MuséoBox*
 
 ### Le fonctionnement : conception et caractéristiques techniques
@@ -50,9 +52,11 @@ Nous avons choisi de nommer notre proposition *MuséoBox* afin de signifier la d
 De manière similaire à la *PirateBox*, la *MuséoBox* se compose d’un boîtier spécifique, dont l’ensemble devra être monté par les institutions en suivant le guide (à paraître). Puis, il suffit de télécharger le logiciel de la *MuséoBox* (à paraître), et enfin de configurer la *box* avec les contenus de son choix. Ce boîtier une fois installé dans l’endroit convenu, caché du regard des publics permet ainsi la connexion Wi-Fi par les utilisateurs·trices. Une fois connectés·es, l’entrée dans la *MuséoBox* se fait sans mot de passe. Cependant, afin de pouvoir discuter sur le système de discussions instantanées, un pseudonyme est demandé. Si l’utilisateur·trice ne souhaite pas indiquer son nom ou un pseudo, il sera par défaut indiqué comme anonyme.  (voir Fig. 2). Aucun renseignement personnel n’est ainsi requis. Cette synthétisation de la création d’un compte permet d’éviter une première barrière à l’utilisation de la *Muséobox* au moment de la connexion. Alors connecté·e à la *MuséoBox*, l’utilisateur·trice trouve sur le côté de manière significative, un menu composé de thématiques correspondant à des canaux de discussions présentés à la manière de différents serveurs (voir Fig. 3).
 
 ![MuseoBox-2](http://www.museadon.ca/images/MuseoBox-2.jpg)
+
 Fig. 2. Maquette pour mobile d’un canal de discussion relatif à une collection du Musée McCord
 
 ![MuseoBox-3](http://www.museadon.ca/images/MuseoBox-3.jpg)
+
 Fig. 3. Maquette pour mobile du menu pour le Musée McCord
 
 Afin d’encourager le·la visiteur·euse à se connecter à la *box* et à participer aux discussions dès son arrivée au sein de l’institution, il·elle pourra découvrir des cartels explicatifs affichant des QR codes, qui renvoient à la *MuséoBox* (voir Fig. 4). Tout au long de son parcours au sein des expositions temporaires et permanentes, le·la visiteur·teuse est invité·e à prendre part à des débats relatifs aux objets exposés par le biais de questions associées à des QR codes. Lorsqu’ils sont scannés, les codes permettent un accès direct vers le canal de discussion référent. Ces forums thématiques se présentent comme des espaces d’échange entre l'institution – par l’entremise de méditeurs·trices –, et les publics autour des collections, des expositions et possiblement d’enjeux d’actualité. 
@@ -60,11 +64,13 @@ Afin d’encourager le·la visiteur·euse à se connecter à la *box* et à part
 Cependant, il n’est pas obligatoire de passer par les QR codes pour accéder à la *MuséoBox* et ce, pour des raisons techniques. Les QR codes sont ainsi accompagnés de leur lien d’origine afin de permettre l’accès à la discussion aux utilisateurs·trices ayant des téléphones mobiles ne les lisant pas. Également, si un·e utilisateur·trice souhaite parcourir la *MuséoBox* depuis un autre endroit du musée, il·elle peut de cette façon accéder aux canaux de discussion et participer aux conversations en tout temps. Tel un dispositif de médiation portatif, ce système de clavardage est donc un moyen de discuter avec l’institution même et de voir un·e intervenant·e échanger avec les utilisateurs·trices presque instantanément. 
 
 ![MuseoBox-4](http://www.museadon.ca/images/MuseoBox-4.jpg)
+
 Fig. 4. Maquette de cartel composé d’un QR code et d’une question se rapportant à un objet de la collection du Musée McCord
 
 Une fois connecté·e·s à la *MuséoBox*, les utilisateurs·trices ont le privilège d’accéder aux contenus supplémentaires déposés sur la *box* par l’institution d’accueil (voir Fig. 5). Cependant, ces contenus sont disponibles uniquement à des fins de consultations. En effet, le projet *MuséoBox* prend exemple sur la *LibraryBox*, modèle qui s’approche le plus de ce que nous proposons, dont le partage est régulé. Cette fonctionnalité de la *MuséoBox* permet également de se positionner au niveau des droits d’auteur et conserve les données du musée en son sein. Les divers fichiers (archives, œuvres, etc.) restent dès lors sous la surveillance et la juridiction du musée tout en permettant leur partage. En effet, il n’est pas possible de modifier ni de télécharger les contenus présents sur la *box* afin d’éviter des dérives telles que l’apport de logiciels malveillants dans le système dans le but d’assurer un certain degré minimal de protection des données des institutions. En ce sens, nous pensons que cette limitation est préférable pour les institutions muséales pour qui le partage de contenus s’avère encore sensible à ce jour ou qui sont limitées par des questions de droits.
 
 ![MuseoBox-5](http://www.museadon.ca/images/MuseoBox-5.jpg)
+
 Fig. 5. Maquette pour mobile du menu pour accéder aux contenus supplémentaires
 
 ### L’interface graphique
@@ -72,6 +78,7 @@ Fig. 5. Maquette pour mobile du menu pour accéder aux contenus supplémentaires
 Dans la continuité de l’esprit *low-tech* du projet, l’interface graphique de la *MuséoBox* se veut neutre, minimale et intuitive afin qu’elle soit facile d’utilisation par les publics et aisément appropriable par les institutions. Corollairement, le design de la *MuséoBox* est librement inspiré d’autres logiciels de discussions instantanées populaires tels que [*Messenger*](https://www.messenger.com/) et [*Slack*](https://slack.com/intl/fr-ca/). Le modèle comprend – un menu latéral permettant de naviguer sans difficulté entre les canaux de discussion, des fils de discussions instantanées affichant l’heure des interactions, une option proposant de réagir aux messages au moyen d’*émoticons*, une boîte de rédaction, une barre offrant la possibilité d’inscrire un pseudonyme, ainsi qu’un bouton renvoyant aux contenus supplémentaires (voir Fig. 6). Aussi, comme la majorité des sites Web actuels, l’affichage de la *MuséoBox* est *responsive* (réactif [7]), son utilisation est donc adaptée aux téléphones intelligents, aux tablettes électroniques de même qu’aux ordinateurs (voir Fig. 5 et 6). 
 
 ![MuseoBox-6](http://www.museadon.ca/images/MuseoBox-6.jpg)
+
 Fig. 6. Maquette pour tablette et ordinateur de l’interface graphique de la *MuséoBox* du Musée McCord 
 
 Tel que mentionné plus tôt, le modèle est adaptable, ceci implique qu'il est possible d’ajouter son logo, de modifier les couleurs et la typographie afin d’accorder l’interface de sa *box* à la charte graphique de son institution. Seul, le logo *MuséoBox* reste présent dans l’interface finale de la *box*. Le logiciel permet également de créer les canaux de discussion désirés en fonction de ses collections et expositions et de joindre les contenus complémentaires de son choix. Par exemple, le Musée McCord de Montréal, qui est un musée d’histoire, pourrait emprunter les titres de ses collections – art documentaire ; costume, mode, textiles ; cultures autochtones ; culture matérielle ; photographie ; archives – pour nommer les canaux de discussion de sa *box*. Riche de sa documentation numérique, le Musée McCord pourrait aussi rendre accessible sur sa *MuséoBox* des photographies, des références bibliographiques, ses audioguides et plus encore, dans la perspective de proposer une expérience enrichie in situ à ses visiteurs·teuses (voir Fig.6).
@@ -94,11 +101,13 @@ Comme nous l’avons évoqué plus tôt, le concept de *MuséoBox* s’inscrit d
 En soi, les contenus supplémentaires sont modulables et peuvent être inspirés des contenus déjà disponibles sur le site Web de l’institution. La fonctionnalité de consultation de la *MuséoBox* est en somme un outil de médiation numérique versatile qui permet de fournir aux utilisateurs·trices des contenus complémentaires aux expositions et aux activités éducatives muséales. 
 
 ![MuseoBox-7](http://www.museadon.ca/images/MuseoBox-7.jpg)
+
 Fig. 7. Maquette pour mobile de l’interface graphique de contenus supplémentaires audio
 
 Le dialogue mit en place via ce dispositif d'interaction « en direct » avec une personne référente du musée ou d’autres utilisateurs·trices permet d’autant plus d’ouvrir des discussions et des réflexions sur des aspects inédits des expositions et des artefacts. Ce type de dialogue est ainsi bénéfique pour les visiteurs·teuses et également pour les musées, qui créent une proximité avec leurs publics. Cela peut encourager la participation des amateurs·trices, leur implication dans la structure muséale et dans sa réflexivité. Ceci peut aussi contribuer à créer des actions participatives à l’instar d’une sorte d’*écomusée du web* et favoriser le sentiment d’appartenance à la communauté muséale (voir Fig. 8).
 
 ![MuseoBox-8](http://www.museadon.ca/images/MuseoBox-8.jpg)
+
 Fig. 8. Maquette de l’interface graphique pour tablette ou ordinateur d’un canal de discussion de la *MuséoBox* du Musée McCord
 
 ### De l’inclusivité des publics à l’équité entre musées
@@ -124,21 +133,21 @@ Finalement, dans une vision plus large, nous posons la question de sa réalisati
 
 ## Notes et références
 
-[1] Considérant la portée politique des mots, des procédés de rédaction inclusive sont employés dans cet article afin d’assurer l’équilibre de la représentation de la diversité de genre. Institut national de la recherche scientifique, *Inclusivement vôtres ! Guide de rédaction inclusive*, 2021. En ligne. < https://inrs.ca/wp-content/uploads/2021/03/Guide-redaction-inclusive-inrs-vf.pdf >. Consulté le 1er avril 2021.
-[2] DARTS, David, « PirateBox », dans *DAVID DARTS*. En ligne. < https://daviddarts.com/piratebox >. Consulté le 5 avril 2021.
-[3] PirateBox, « PirateBox source ». En ligne. < https://piratebox.cc/source >. Consulté le 5 avril 2021.
-[4] MIQUET, Alissia, « La PirateBox : une solution low-tech pour un échange numérique plus libre ? », dans *Museadon*, 12 mars 2021. En ligne. < http://www.museadon.ca/2021/03/12/LaPirateBox.html >.
-[5] GRIFFEY, Jason, « LibraryBox », dans *The LibraryBox Project*, 2012. En ligne. < http://jasongriffey.net/librarybox/index.php >. Consulté le 5 avril 2021.
-[6] Dans le domaine de l’informatique un *fork* ou une fourche désigne un « logiciel développé en réutilisant le code source d'un logiciel existan ». Tiré de Office québécois de la langue française, « Fiche terminologique – fourche », 2012. En ligne. < http://gdt.oqlf.gouv.qc.ca/ficheOqlf.aspx?Id_Fiche=26529122 >. Consulté le 12 avril 2021.  
-[7] « Site Web dont l'affichage s'adapte dynamiquement à différentes tailles d'écrans de terminaux grâce à des solutions techniques qui partent d'une version unique du code Web. ». Tiré de Office québécois de la langue française, « Fiche terminologique – site Web réactif », 2012. En ligne. < http://gdt.oqlf.gouv.qc.ca/ficheOqlf.aspx?Id_Fiche=26519892 >. Consulté le 12 avril 2021. 
-[8] REBILLARD, Franck, « Du Web 2.0 au Web2 : fortunes et infortunes des discours d’accompagnement des réseaux socionumériques », dans *Hermès, La Revue*, n° 59, 2011, pp. 25-30. En ligne. < https://www.cairn.info/revue-hermes-la-revue-2011-1-page-25.htm >. Consulté le 13 avril 2021. 
+[1] Considérant la portée politique des mots, des procédés de rédaction inclusive sont employés dans cet article afin d’assurer l’équilibre de la représentation de la diversité de genre. Institut national de la recherche scientifique, *Inclusivement vôtres ! Guide de rédaction inclusive*, 2021. En ligne. https://inrs.ca/wp-content/uploads/2021/03/Guide-redaction-inclusive-inrs-vf.pdf. Consulté le 1er avril 2021.
+[2] DARTS, David, « PirateBox », dans *DAVID DARTS*. En ligne. https://daviddarts.com/piratebox. Consulté le 5 avril 2021.
+[3] PirateBox, « PirateBox source ». En ligne. https://piratebox.cc/source. Consulté le 5 avril 2021.
+[4] MIQUET, Alissia, « La PirateBox : une solution low-tech pour un échange numérique plus libre ? », dans *Museadon*, 12 mars 2021. En ligne.  http://www.museadon.ca/2021/03/12/LaPirateBox.html.
+[5] GRIFFEY, Jason, « LibraryBox », dans *The LibraryBox Project*, 2012. En ligne.  http://jasongriffey.net/librarybox/index.php. Consulté le 5 avril 2021.
+[6] Dans le domaine de l’informatique un *fork* ou une fourche désigne un « logiciel développé en réutilisant le code source d'un logiciel existan ». Tiré de Office québécois de la langue française, « Fiche terminologique – fourche », 2012. En ligne. http://gdt.oqlf.gouv.qc.ca/ficheOqlf.aspx?Id_Fiche=26529122. Consulté le 12 avril 2021.  
+[7] « Site Web dont l'affichage s'adapte dynamiquement à différentes tailles d'écrans de terminaux grâce à des solutions techniques qui partent d'une version unique du code Web. ». Tiré de Office québécois de la langue française, « Fiche terminologique – site Web réactif », 2012. En ligne. http://gdt.oqlf.gouv.qc.ca/ficheOqlf.aspx?Id_Fiche=26519892. Consulté le 12 avril 2021. 
+[8] REBILLARD, Franck, « Du Web 2.0 au Web2 : fortunes et infortunes des discours d’accompagnement des réseaux socionumériques », dans *Hermès, La Revue*, n° 59, 2011, pp. 25-30. En ligne. https://www.cairn.info/revue-hermes-la-revue-2011-1-page-25.htm. Consulté le 13 avril 2021. 
 [9] GOB, André, « Le Mouseion d’Epictétaé, Considérations sur la polysémie du mot musée », dans *Les Cahiers de muséologie*, 2016, 15 p.
 [10] LANDRY, Anik et Bernard SCHIELE, « L’impermanence des musées », dans *Communication & langages*, vol. 1, no 175, 2013, pp. 27-46.
-[11] The Guardian, *Edward Snowden interview part I - NSA whistleblower Edward Snowden : ‘I don’t want to live in a society that does these sort of things’*, 9 juillet 2013, 12 min. 34 s. En ligne. < https://www.youtube.com/watch?v=0hLjuVyIIrs&t=119s >. Consulté le 15 avril 2021. & The Guardian, *Edward Snowden interview part II : ‘The US government will say I aided our enemies » - NSA whistleblower’*, 9 juillet 2013, 7 min. 6 s. En ligne. < https://www.youtube.com/watch?v=Q_qdnyEqCPk >. Consulté le 15 avril 2021.
+[11] The Guardian, *Edward Snowden interview part I - NSA whistleblower Edward Snowden : ‘I don’t want to live in a society that does these sort of things’*, 9 juillet 2013, 12 min. 34 s. En ligne. https://www.youtube.com/watch?v=0hLjuVyIIrs&t=119s. Consulté le 15 avril 2021. & The Guardian, *Edward Snowden interview part II : ‘The US government will say I aided our enemies » - NSA whistleblower’*, 9 juillet 2013, 7 min. 6 s. En ligne. https://www.youtube.com/watch?v=Q_qdnyEqCPk. Consulté le 15 avril 2021.
 [12] REBILLARD, Franck, *op. cit.* 
-[13] « Les *#museogeeks* (de muséo, préfixe évoquant le musée et -geeks, suffixe qui fait référence à l’intérêt pour le numérique et les TICE), forment une communauté informelle qui s’est agrégée en France autour de l’été 2011, après de nombreux échanges entre des divers acteurs du numérique au musée [...] ». Tiré de MARGO, Sébastien, « Qui sont les #museogeeks ? », dans *Sébastien Magro*, 18 juillet, 2016. En ligne. < https://blog.sebastienmagro.net/2013/04/15/qui-sont-les-museogeeks/ >. Consulté le 15 avril 2021.
-[14]  LEBLAN-CARREAU, Maéli, « Le modèle d’audioguide statique pour musée de l’ACMI LABS », dans *Museadon*, 10 mars 2021. En ligne. < http://www.museadon.ca/2021/03/10/ACMILABS-static-museum-audioguide.html >. Consulté le 15 avril 2021. 
-[15] COUILLARD, Noémie, « Les politiques culturelles numériques : repenser la place des nouvelles technologies dans le patrimoine », dans *Les Enjeux de l’information et de la communication*, 20 décembre 2019. En ligne. < https://lesenjeux.univ-grenoble-alpes.fr/2019/supplement-a/01-les-politiques-culturelles-numeriques-repenser-la-place-des-nouvelles-technologies-dans-le-patrimoine/ >. Consulté le 15 avril 2021. 
-[16] MAGRO, Sébastien, « De l’usage des réseaux socio-numériques comme supports d’une médiation culturelle en ligne », dans *La lettre de l’OCIM*, n° 162, novembre-décembre 2015, pp. 37-40. En ligne. < https://journals.openedition.org/ocim/1593 >. Consulté le 16 avril 2021. 
-[17] Voir l’organigramme du Château de Versailles < https://www.chateauversailles.fr/etablissement-public#direction-delegations-de-signature > et celui du Louvre < https://www.louvre.fr/l-etablissement-public/gouvernance >.
-[18]  POIRIER-VANNIER, Estelle, « Ressources virtuelles développées par les musées pendant la pandémie de COVID-19 », Programmes d’études supérieures en muséologie, Université du Québec à Montréal, juin 2020. En ligne. < https://museologie.uqam.ca/wp-content/uploads/2020/06/Ressources-virtuelles_musees.pdf >.  Consulté le 16 avril 2021.
+[13] « Les *#museogeeks* (de muséo, préfixe évoquant le musée et -geeks, suffixe qui fait référence à l’intérêt pour le numérique et les TICE), forment une communauté informelle qui s’est agrégée en France autour de l’été 2011, après de nombreux échanges entre des divers acteurs du numérique au musée [...] ». Tiré de MARGO, Sébastien, « Qui sont les #museogeeks ? », dans *Sébastien Magro*, 18 juillet, 2016. En ligne. https://blog.sebastienmagro.net/2013/04/15/qui-sont-les-museogeeks/. Consulté le 15 avril 2021.
+[14]  LEBLAN-CARREAU, Maéli, « Le modèle d’audioguide statique pour musée de l’ACMI LABS », dans *Museadon*, 10 mars 2021. En ligne. http://www.museadon.ca/2021/03/10/ACMILABS-static-museum-audioguide.html. Consulté le 15 avril 2021. 
+[15] COUILLARD, Noémie, « Les politiques culturelles numériques : repenser la place des nouvelles technologies dans le patrimoine », dans *Les Enjeux de l’information et de la communication*, 20 décembre 2019. En ligne. https://lesenjeux.univ-grenoble-alpes.fr/2019/supplement-a/01-les-politiques-culturelles-numeriques-repenser-la-place-des-nouvelles-technologies-dans-le-patrimoine/. Consulté le 15 avril 2021. 
+[16] MAGRO, Sébastien, « De l’usage des réseaux socio-numériques comme supports d’une médiation culturelle en ligne », dans *La lettre de l’OCIM*, n° 162, novembre-décembre 2015, pp. 37-40. En ligne. https://journals.openedition.org/ocim/1593. Consulté le 16 avril 2021. 
+[17] Voir l’organigramme du Château de Versailles https://www.chateauversailles.fr/etablissement-public#direction-delegations-de-signature et celui du Louvre  https://www.louvre.fr/l-etablissement-public/gouvernance.
+[18]  POIRIER-VANNIER, Estelle, « Ressources virtuelles développées par les musées pendant la pandémie de COVID-19 », Programmes d’études supérieures en muséologie, Université du Québec à Montréal, juin 2020. En ligne. https://museologie.uqam.ca/wp-content/uploads/2020/06/Ressources-virtuelles_musees.pdf.  Consulté le 16 avril 2021.
