@@ -4,7 +4,7 @@ title: "La MuséoBox"
 author: Maéli Leblanc-Carreau, Alissia Miquet et Juliette Passilly
 ---
 
-![MuseoBox-logo](http://www.museadon.ca/images/MuseoBox-logo.jpg)
+![MuseoBox-logo](http://www.museadon.ca/images/MuseoBox-logo.png)
 
 ### Rejoignez la conversation...
 
