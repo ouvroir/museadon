@@ -4,6 +4,10 @@ title: "Le guide du Balado pour les musées"
 author: Julien Lehoux, Camille Rémillard-Vigneault et Magalie Rouleau
 ---
 
+## Sommaire
+
+Ce guide du balado pour les musées s’adresse aux petites et moyennes institutions muséales qui voudraient se lancer dans la production de balado avec un budget limité. Le guide inclut une définition du balado ainsi qu’une typologie non exhaustive des balados pour inspirer les institutions dans la création d’un nouveau concept. La section « tutoriel » propose des solutions privilégiant des ressources gratuites et non propriétaires.  L’objectif de ce tutoriel est de fournir les moyens les plus accessibles possibles pour la création d’une nouvelle émission. Un glossaire comprenant les termes fréquemment utilisés en balado  et une liste de liens pour approfondir le sujet se trouvent à la fin du document. 
+
 ## Introduction 
 
 Apparue au début des années 2000, la baladodiffusion (ou *podcasting*, en anglais) connaît un grand engouement depuis quelques années. Selon une étude conduite par [*Edison Research*](http://www.edisonresearch.com/wp-content/uploads/2021/03/The-Infinite-Dial-2021.pdf) en 2021, près de 78% de la population américaine était familière avec le terme *podcast*, 57% en avaient déjà écouté et 41% en écoutaient au moins une fois par mois. En parallèle, l’offre de balado augmente rapidement. En mars 2021, on comptait près de 2 millions de balados actifs et plus de 47 millions d’épisodes disponibles. À titre comparatif, en juin 2018, le nombre de balados actifs s’élevait à 550 000. En moins de trois ans, il s’agit d’une augmentation de près de 400%. 
