@@ -4,9 +4,6 @@ title: "La photographie des vitraux au Québec à l'ère du numérique : quelles
 author: Franck Calard
 ---
 
-## La photographie des vitraux au Québec à l’ère du numérique : quelles sont les bonnes pratiques ?
-
-
  Qui n’a jamais éprouvé des difficultés pour prendre en photo un vitrail dans une église ? Qu’il s’agisse du point de vue, de la surexposition ou de l’atmosphère lumineuse, la photographie de verrières pose de nombreux problèmes aux spécialistes de même qu’aux visiteurs. Les journées d’études des 22 et 23 novembre 2019 intitulées _Étudier les vitraux. Des pionniers du Corpus Vitrearum à l’inventaire du patrimoine le plus récent_[1] organisées par le comité français du Corpus Vitrearum en collaboration avec le Centre André Chastel et l’Union académique internationale a été l’occasion de discuter des enjeux liés à la photographie de ce médium. Comme le souligne la fiche _L’inventaire : Une nécessité_ du Ministère de la Culture et des Communications du Québec[2], il faut photographier les objets sous plusieurs angles et/ou faire une vidéo dans le meilleur des cas. **Force est de constater que les photographies de vitraux sont de très mauvaise qualité et ne sont presque jamais fidèles à la réalité de l’œuvre in situ.** Les postes de photographe professionnel sont supprimés des cellules patrimoines et le manque d’outils adaptés peuvent effrayer les chargés d’inventaire. Pour autant, il existe des solutions pour pallier toutes ces difficultés et c’est ce que nous allons voir dans cet article.
 
 **1.  Trois photographies dans des conditions climatiques adaptées à partir de points de vue cohérents.**
