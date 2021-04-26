@@ -85,6 +85,7 @@ Afin de mettre en application notre guide pratique pour l’utilisation de Genia
 https://view.genial.ly/60785ff2431ac20d6cab0e7f/interactive-content-a-la-rencontre-de-felix-leclerc
 
 Cette aventure se nomme À la rencontre de Félix Leclerc, et prend environ 1h30 à compléter. Se situant dans le quartier du plateau, cinq œuvres seront visitées par les joueurs. À chaque arrêt, une énigme doit être résolue afin de passer à la prochaine étape. Pour éviter que les joueurs ne soient bloqués à une étape, nous proposons un choix de réponses. Une mauvaise réponse renvoie le joueur à la question pour une nouvelle tentative. La structure du parcours est plutôt simple et suit une logique séquentielle. Si cela est possible, nous vous invitons à participer vous-même au jeu pour mieux en comprendre la mécanique. Sinon, vous pouvez aussi parcourir le jeu, sans y jouer, pour au moins en comprendre son fonctionnement. 
+
 ![image](https://user-images.githubusercontent.com/77984701/116116127-cc670a00-a688-11eb-8af0-3a7e553fba94.png)
 
 L’aventure commence près du métro Mont-Royal devant l'œuvre Tango de Montréal (1999), par Les Industries Perdues. Une mise en situation est présentée aux joueurs : ils ont manqué leur rendez-vous avec Félix Leclerc et doivent donc partir à sa recherche. On vous demande donc à quelle heure vous aviez rendez-vous. La réponse est 7h30, information fournie dans le poème de la murale Tango de Montréal. Une fois la réponse trouvée, vous êtes félicité et le jeu se poursuit au prochain point. 
