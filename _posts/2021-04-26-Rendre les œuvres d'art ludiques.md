@@ -55,8 +55,8 @@ Il est possible d’intégrer des contenus de fournisseurs externes comme : des 
 
 Le site *Genial.ly* offre beaucoup davantage, mais ces contenus restent sous la propriété du site. « Le présent site appartient à GENIALLY. Leurs contenus (y compris, à titre indicatif uniquement, leur code source, leurs marques commerciales, images, icônes, designs et création générale) sont protégés en vertu de la réglementation espagnole, communautaire et internationale, par des droits d'auteur, des marques enregistrées et d'autres droits de propriété intellectuelle et industrielle dont GENIALLY, des sociétés de son groupe et des tiers sont les titulaires. L'accès à ce Site Internet ne confère en aucun cas ni pourra être interprété comme une quelconque autorisation ou licence sur ces contenus et droits. 
 
-Vidéo explicative de “Qu’est-ce que Genial.ly” : https://youtu.be/yDoYjdizKkg
-Pour plus d'informations : https://www.genial.ly/
+Vidéo explicative de “Qu’est-ce que Genial.ly” :[link to Youtube!](https://youtu.be/yDoYjdizKkg)
+Pour plus d'informations : [link to Genial.ly!](https://www.genial.ly/)
 
 **Les avantages**
 
@@ -79,7 +79,7 @@ Les avantages de cette application sont nombreux. Nous les avons listés ci-dess
 Exemple : À la rencontre de Felix Leclerc
 Afin de mettre en application notre guide pratique pour l’utilisation de Genial.ly, nous avons créé un parcours extérieur utilisant les œuvres d’art publiques de Montréal. En cinq étapes, les participants n’ont qu’à utiliser le lien vers le document Genial.ly: 
 
-https://view.genial.ly/60785ff2431ac20d6cab0e7f/interactive-content-a-la-rencontre-de-felix-leclerc
+[link to Genial.ly!](https://view.genial.ly/60785ff2431ac20d6cab0e7f/interactive-content-a-la-rencontre-de-felix-leclerc)
 
 Cette aventure se nomme À la rencontre de Félix Leclerc, et prend environ 1h30 à compléter. Se situant dans le quartier du plateau, cinq œuvres seront visitées par les joueurs. À chaque arrêt, une énigme doit être résolue afin de passer à la prochaine étape. Pour éviter que les joueurs ne soient bloqués à une étape, nous proposons un choix de réponses. Une mauvaise réponse renvoie le joueur à la question pour une nouvelle tentative. La structure du parcours est plutôt simple et suit une logique séquentielle. Si cela est possible, nous vous invitons à participer vous-même au jeu pour mieux en comprendre la mécanique. Sinon, vous pouvez aussi parcourir le jeu, sans y jouer, pour au moins en comprendre son fonctionnement. 
 
