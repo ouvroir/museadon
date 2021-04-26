@@ -3,7 +3,9 @@ layout: post
 title: Rendre les œuvres d’art ludiques
 ---
 Arielle Acosta Perelman
+
 Alizé Sibella-Sunalp
+
 Véronique Forget
 
 
