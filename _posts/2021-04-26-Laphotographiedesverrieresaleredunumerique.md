@@ -1,3 +1,9 @@
+---
+layout: post
+title: "La photographie des verrières au Québec à l'ère du numérique : quelles sont les bonnes pratiques ?"
+author: Franck Calard
+---
+
 ## La photographie des verrières au Québec à l’ère du numérique : quelles sont les bonnes pratiques ?
 
 
