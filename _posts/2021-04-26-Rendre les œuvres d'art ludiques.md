@@ -2,6 +2,11 @@
 layout: post
 title: Rendre les œuvres d’art ludiques
 ---
+Arielle Acosta Perelman
+Alizé Sibella-Sunalp
+Véronique Forget
+
+
 **Introduction**
 
 Dans le cadre du cours « Problèmes contemporains : Muséologie numérique », nous devions proposer une expérience numérique à des fins de mise en valeur du patrimoine. Nous avons décidé de proposer aux institutions culturelles et muséales le concept du Serious game pour promouvoir l’art, l’histoire et la culture de Montréal. Afin de répondre à cette demande, nous tenterons de créer un *Serious Game*, un jeu d’énigme virtuel en utilisant l'application *Genial.ly*. Le jeu en question portera sur les œuvres publiques de la ville de Montréal. Le jeu a pour but d'amener les utilisateurs là où les œuvres se trouvent tout en leur permettant de découvrir la ville et ses quartiers. Nous essayerons de mettre en avant le travail des artistes et le concept des œuvres, pour que le jeu apporte de nouvelles connaissances aux participants. Ce jeu qui se veut être une expérience à la fois ludique et pédagogique s’adresse à un public assez large, qu’il s’agisse d’enfants ou d’adultes, tout dépendra, bien évidemment, du contenu final. La contrainte, cependant, relève de l’utilisation d’un téléphone disposant d’une connexion internet.
@@ -110,6 +115,7 @@ En somme, le *Serious Game* est une option intéressante et peu coûteuse pour l
 Par la création d’un jeu d’énigme sur Félix Leclerc, les institutions intéressées peuvent suivre nos démarches et réflexions sur les options qu'offrent les différentes plateformes et leurs avantages.  Le choix d’utiliser l’art public dans la ville de Montréal pour notre projet fut inspiré de l’idée de créer une série d'énigmes qui pousse les visiteurs à la découverte de la ville, entre déambulation et recherche d'indices. De plus, le jeu met de l’avant le patrimoine du Québec par son personnage et donne de l'information sur l’art public de la ville. Il est accessible à tous, dépendant seulement des données de l’appareil utilisé. Ces concepts; accessibilité, partage, découverte et plaisir sont les éléments clés; c’est ce qui nous a guidés et c’est ce dont les institutions doivent s’inspirer pour la réussite d’un jeu sérieux. 
 
 Au niveau de l’accessibilité, certains éléments peuvent être à améliorer dans la création des *Serious Game* et qui pose un problème avec la plateforme de *Genial.ly*. En effet, la plupart des jeux en ligne ne réfléchissent pas assez aux personnes avec une mobilité réduite ou avec un handicap visuel ou sonore. Si l’expérience peut inspirer les institutions à créer des jeux, la prochaine étape serait de les inspirer à créer un design universel pour la création de leur contenu ludique. 
+
 
 **Bibliographie** 
 
