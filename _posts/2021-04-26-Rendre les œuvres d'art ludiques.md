@@ -2,12 +2,9 @@
 layout: post
 title: Rendre les œuvres d’art ludiques
 ---
-Arielle Acosta Perelman
+Par: Arielle Acosta Perelman, Alizé Sibella-Sunalp et Véronique Forget
 
-Alizé Sibella-Sunalp
-
-Véronique Forget
-
+## Outils, guide et présentation d'un *Serious Game* à Montréal 
 
 **Introduction**
 
