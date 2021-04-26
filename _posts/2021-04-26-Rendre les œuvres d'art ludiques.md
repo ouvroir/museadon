@@ -25,12 +25,14 @@ Dans le cadre des expériences muséales, les SG peuvent, de fait, améliorer la
 **Outils possibles**
 
 Pour notre projet, il nous a fallu un outil numérique pour la création d’un Serious Game.  Parmi ces outils, qui peuvent tous avoir un intérêt pour les structures muséales, nous trouvons :
-•	*Genial.ly* est un créateur de contenu interactif facile d’utilisation. Il offre beaucoup d'options, même avec sa version gratuite.
-•	*Geocaching* est une application qui utilise la technique du géopositionnement par satellite pour rechercher ou dissimuler des « caches » ou des « géocaches », dans divers endroits à travers le monde.
-•	*Lab Adventure*, de *Geocaching*, propose une application pour la création de parcours d’énigmes en 5 points maximum. 
-•	H5P est une plateforme en ligne qui permet la création de présentation interactive. Il est possible d’y insérer des éléments multimédias, des jeux-questionnaires et d’autres éléments dynamiques. 
-•	*Powtoon* permet de créer des vidéos facilement avec du texte, du son et de l’animation. 
-•	La création d’un balado est une bonne option pour notre type de projet. Il est possible de le diffuser sur BaladoCanada ou Baladoquebec. Sinon, la diffusion du balado peut aussi se faire sur un blog (par exemple : WordPress ou Blogger). 
+
+- *Genial.ly* est un créateur de contenu interactif facile d’utilisation. Il offre beaucoup d'options, même avec sa version gratuite.
+- *Geocaching* est une application qui utilise la technique du géopositionnement par satellite pour rechercher ou dissimuler des « caches » ou des « géocaches », dans divers endroits à travers le monde.
+- *Lab Adventure*, de *Geocaching*, propose une application pour la création de parcours d’énigmes en 5 points maximum. 
+- H5P est une plateforme en ligne qui permet la création de présentation interactive. Il est possible d’y insérer des éléments multimédias, des jeux-questionnaire et d’autres éléments dynamiques. 
+- *Powtoon* permet de créer des vidéos facilement avec du texte, du son et de l’animation. 
+- La création d’un balado est une bonne option pour notre type de projet. Il est possible de le diffuser sur BaladoCanada ou Baladoquebec. Sinon, la diffusion du balado peut aussi se faire sur un blog (par exemple : WordPress ou Blogger). 
+
 Deux outils ont attiré notre intérêt : *Genial.ly* et *Labadventure* de *Geocaching*. Nous avons testé ces deux applications, comparant les avantages et les inconvénients de chacun. Ayant préféré l’utilisation de *Genial.ly*, nous proposons un guide pratique pour les institutions muséales. 
 
 **Avantages de Serious Game dans le milieu de la culture et des arts**
