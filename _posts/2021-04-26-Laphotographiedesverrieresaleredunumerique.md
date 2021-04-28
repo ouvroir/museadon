@@ -6,7 +6,8 @@ author: Franck Calard
 
  Qui n’a jamais éprouvé des difficultés pour prendre en photo un vitrail dans une église ? Qu’il s’agisse du point de vue, de la surexposition ou de l’atmosphère lumineuse, la photographie de verrières pose de nombreux problèmes aux spécialistes de même qu’aux visiteurs. Les journées d’études des 22 et 23 novembre 2019 intitulées _Étudier les vitraux. Des pionniers du Corpus Vitrearum à l’inventaire du patrimoine le plus récent_[1] organisées par le comité français du Corpus Vitrearum en collaboration avec le Centre André Chastel et l’Union académique internationale a été l’occasion de discuter des enjeux liés à la photographie de ce médium. Comme le souligne la fiche _L’inventaire : Une nécessité_ du Ministère de la Culture et des Communications du Québec[2], il faut photographier les objets sous plusieurs angles et/ou faire une vidéo dans le meilleur des cas. **Force est de constater que les photographies de vitraux sont de très mauvaise qualité et ne sont presque jamais fidèles à la réalité de l’œuvre in situ.** Les postes de photographe professionnel sont supprimés des cellules patrimoines et le manque d’outils adaptés peuvent effrayer les chargés d’inventaire. Pour autant, il existe des solutions pour pallier toutes ces difficultés et c’est ce que nous allons voir dans cet article.
 
-![Photovitrail1](http://www.museadon.ca/images/Photovitrail1.jpg)
+![IMG_20210319_105207](http://www.museadon.ca/images/IMG_20210319_105207.jpg)
+Verrière de Mario Merola (né en 1931) et Pierre Osterrath (né en 1939) réalisée en 1978 pour la station Charlevoix du métro de Montréal.
 
 **1.  Trois photographies dans des conditions climatiques adaptées à partir de points de vue cohérents.**
 
@@ -16,7 +17,8 @@ author: Franck Calard
   
   Enfin, certaines verrières sont inaccessibles et nécessitent soit l’**accès à un point de vue privilégié**, dans certaines églises le _triforium_ ou les tribunes, soit l’**usage d’un drone avec caméra**. Cette deuxième proposition peut paraître assez effrayante du fait d’un coût conséquent. Quoi qu’il en soit, les services du Centre de conservation du Québec ne disposent pas d’un tel outil[3]. Il semblerait que les photographies in situ sont prises lors des restaurations des verrières tandis que les photos en studio sont réalisées par des photographes professionnels. Dans tous les cas, lorsque la verrière est plus haute que le niveau du sol, il ne faut pas prendre une photo trop près de cette dernière étant donné que cela risque d’avoir des vitraux déformés. Il faut favoriser un positionnement plus ou moins distant du vitrail. **Si on prend une photographie de loin avec un appareil photo, un objectif est primordial afin de ne pas endommager la qualité de l’image**. 
   
-![Photovitrail2](http://www.museadon.ca/images/Photovitrail2.jpg)
+![IMG_20210311_111558](http://www.museadon.ca/images/IMG_20210311_111558.jpg)
+Verrière de la présentation de Marie au Temple par Delphis-Adolphe Beaulieu (1849-1928) réalisé en 1908. 
 
 **2.  La prise de photo du vitrail : moyens techniques et connaissances pratiques.**
 
@@ -39,7 +41,8 @@ Si on choisit d’utiliser un **téléphone cellulaire**, il faut prendre en com
 
 Même si ce tutoriel a pour but de simplifier la prise de photo des vitraux, **le passage à un logiciel de traitement peut être nécessaire dans certaines situations**. En effet, n’oublions pas qu’il s’agit de vitraux. Du fait de sa position et du point de vue du spectateur, l’artiste a, dans certains cas, compensé l’effet de perspective en intégrant une déformation à son dessin. Cette anamorphose n’est pas seulement propre aux verrières, on la retrouve dans de nombreux tableaux d’église. Au-delà de cette problématique, la verrière n’est que très rarement accessible au spectateur. L’utilisation d’un logiciel de traitement permettra aussi de corriger les éventuelles déformations. Lorsque les proportions de la longueur et de la largeur du vitrail sont connues, il faudra les prendre en considération lors de la correction. En ce sens, des logiciels libres de droits comme Gimp sont des références. À partir de cet outil, il suffit d’ouvrir une photo dans le logiciel, de cliquer sur outils puis perspective. À cette étape, il faut bien vérifier que l’option correction en arrière est sélectionnée. Ensuite, il faudra cliquer sur guide puis nombre de ligne afin de pouvoir obtenir un quadrillage lors de la correction de la perspective de l’image. Maintenant, vous pouvez cliquer directement sur l’image pour faire apparaître les quadrillages et réadapter l’image en fonction du point de vue initial. La règle est simple : toujours respecter l’horizontal. Somme toute, l’utilisation d’une image de haute qualité est plus que nécessaire étant donné que les pixels sont transformés lors de ce recadrage.
 
-![Photovitrail3](http://www.museadon.ca/images/Photovitrail3.jpg)
+![IMG_20210311_120507](http://www.museadon.ca/images/IMG_20210311_120507.jpg)
+Face externe de l'un des vitraux civils de la salle de la mer du belvédère de l'église Notre-Dame-de-Bonsecours
 
   Maintenant que vous avez toutes les clés pour prendre en photo des verrières et pour les recadrer, **il ne vous reste plus qu’à sortir dans les églises et dans les lieux de patrimoine du Québec possédant du vitrail !**
   
