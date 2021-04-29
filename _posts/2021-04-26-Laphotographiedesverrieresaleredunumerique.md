@@ -25,15 +25,23 @@ Verrière de la présentation de Marie au Temple par Delphis-Adolphe Beaulieu (1
 Arrivé à l’étape réelle de la prise de photo, il faut avoir en tête une information pratique de premier ordre :  **le vitrail est à contre-jour**. Même si l’église est sombre, il ne faut pas régler son appareil photo ou son téléphone cellulaire pour une exposition photo sombre d’intérieur mais plutôt pour une exposition lumineuse d’extérieur. En ce qui concerne l’appareil photo, l’utilisation d’un trépied est possible mais pas indispensable. 
 
 Si on choisit d’utiliser **un appareil photo**, il faut prendre en compte la sensibilité ISO, le programme, la mesure de lumière et l’autofocus :
+
 •  **La sensibilité ISO**, ce qui mesure la sensibilité à la lumière des pellicules et des capteurs numériques, devra être entre 100 et 200 lorsqu’il fait soleil et 400 et 800 lorsque le temps est nuageux. 
-•  **Le programme P** avec une mémorisation d’exposition est l’idéal. Il règle automatiquement la vitesse d'obturation et l'ouverture pour une exposition optimale
+
+•  **Le programme P** avec une mémorisation d’exposition est l’idéal. Il règle automatiquement la vitesse d'obturation et l'ouverture pour une exposition optimale.
+
 •  **Le programme manuel** est parfait lorsque les vitraux sont dans une ambiance lumineuse homogène. Grâce au manuel, vous pouvez bloquer vos paramètres favoris et une adaptation pour chaque vitrail n’est pas obligatoire étant donné qu’ils ont la même exposition lumineuse.
+
 •  De manière générale, il s’agit d’une mesure globale avec une mémorisation d’exposition comme indiquée avec le programme P. Toutefois, lorsqu’il n’est pas possible de mesurer directement sur le vitrail du fait d’une distance trop large, il faudra utiliser une mesure spot.
+
 •  **Pour la mise au point**, ne pas hésiter à rester en autofocus. 
 
 Si on choisit d’utiliser un **téléphone cellulaire**, il faut prendre en compte le nombre de mégapixels, les modes proposés et les paramètres liés à la caméra :
+
 • **Les mégapixels** Les mégapixels représentent la résolution avec laquelle capteur du smartphone réalise ses clichés. En matière d’unités de mesure, un mégapixel correspond à un million de pixels. En revanche, il faut aussi prendre en compte la qualité du pixel, c’est-à-dire la taille de chaque pixel. Sur des petits objectifs, comme pour les cellulaires, il faut plutôt privilégier de grands pixels que des petits en plus grands nombre. S’il n’y a pas assez de lumière, certains fabricants de téléphone offrent la possibilité de remplacer le capteur photo par un plus grand.
+
 •  **Les modes proposés** comme le HDR (_high dynamic range_ ou haute plage dynamique), le mode portrait, le mode carré, le mode panoramique ou encore le mode ralenti et accéléré sont autant de nouvelles possibilités qu’offrent nos cellulaires intelligents. Pour prendre des photos de vitraux, il faut comparer la fonction haute plage dynamique qui consiste à prendre plusieurs photos simultanées d’une scène identique mais exposées différemment et la fonction de base afin de vérifier ce qui est le mieux en fonction de l’environnement et du contexte.
+
 •  **Les paramètres liés à la caméra** seront vos meilleurs outils dans cette quête de la photo parfaite d’un vitrail. En fonction du cellulaire, de nombreuses fonctionnalités sont offertes : mise au point, cadrage et composition, gestion de la lumière ou encore zoom. Pour ce qui est de la prise de photos de vitraux, la gestion de la lumière et les quadrillages sont plus qu’intéressants. Si vous n’êtes pas à l’aise avec la gestion de la lumière, restez en mode automatique. Pour ce qui est de l’effet quadrillé, il vous aidera à avoir une photo droite ce qui facilitera vos modifications par logiciel si nécessaire.
 
 
@@ -49,7 +57,7 @@ Face externe de l'un des vitraux civils de la salle de la mer du belvédère de 
   Pour la rédaction de ce tutoriel, je tiens à remercier le webmaster du site https://www.patrimoine-histoire.fr/, véritable référence pour la photographie des verrières en France, ainsi que Jacques Beardsell, photographe de l’atelier de documentation photographique et imagerie scientifique du Centre de conservation du Québec, pour ses renseignements précieux sur les conditions d’une photographie dans le milieu institutionnel. 
   
   
- ## Références et notes
+ ## Références et notes ##
  
   
   [1] Centre André Chastel, « Étudier les vitraux. Des pionniers du Corpus Vitrearum à l’inventaire du patrimoine le plus récent », Centre André Chastel. Laboratoire de recherche en histoire de l’art, 2019, http:// www.centrechastel.paris-sorbonne.fr/actualites/etudier-les-vitraux-des-pionniers-du-corpus-vitrearum-linventaire-du-patrimoine-le-plus
