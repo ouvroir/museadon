@@ -22,7 +22,7 @@ Page d'accueil du site *Registry of Stained Glass Windows in Canada (RGSC)*.
 Page d'accueil du site *Institute for Stained Glass in Canada*.
   
   
-  ## 2.  Les technologies minimales sources de projets ambitieux pour le vitrail ? 
+  ## 2.  Les technologies minimales sources de projets ambitieux pour le vitrail ? ##
 
 ![IMG_Publicité route du vitrail.jpg](http://www.museadon.ca/images/Publicité%20route%20du%20vitrail.jpg)
 Publicité de l'application "Route du vitrail" pour la Cité du Vitrail de Troyes.
@@ -37,9 +37,9 @@ Page d'accueil de l'exposition numérique *Les vitraux de la Renaissance à Char
    ![IMG_Panneau autriche.jpg](http://www.museadon.ca/images/Panneau%20autriche.jpg)
 Exemple de la mise en place d'un panneau de verre donnant à voir la forme originelle de l'arc de triomphe de la cité romaine Carnuntum.
   
-  ## 3.  Création et mise en ligne d’un site destiné à répertorier les vitraux du Québec
+  ## 3.  Création et mise en ligne d’un site destiné à répertorier les vitraux du Québec ##
 
- ![IMG_Digitales Deutschland.jpg](http://www.museadon.ca/images/PDigitales%20Deutschland.jpg)
+ ![IMG_Digitales Deutschland.jpg](http://www.museadon.ca/images/Digitales%20Deutschland.jpg)
 Aperçu d'une page du *Digitales Bildarchiv* du comité allemand du *Corpus Vitrearum*.
 
 ![IMG_im Kontext.jpg](http://www.museadon.ca/images/im%20Kontext.jpg)
