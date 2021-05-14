@@ -52,6 +52,9 @@ Détail du prototype de site *Omeka Classic* réalisé en localhost dans le cadr
 
 Pour se faire, **un premier prototype a été réalisé à partir d’un site *Omeka Classic* avec, en parallèle, l’installation d’*Arches Project***. Un élément primordial devra guider notre quête de savoir au fur et à mesure du projet : **proposer une licence *Creative Commons* adaptée à nos projets**. Dans tous les cas, *Les vitraux du Québec Stained Glass* fera avancer la recherche tout en mettant de l’avant un médium encore trop peu connu au Canada. 
 
+![IMG_Exemple Arches Project.jpg](http://www.museadon.ca/images/Exemple%20Arches%20Project.jpg)
+Aperçu de l'interface d'*Arches Project*.
+
 **La mise en ligne de ce projet sera rendue possible grâce à la création prochaine du laboratoire d’histoire de l’art et muséologie numérique de l’Université de Montréal**. Pouvoir situer, identifier et renseigner des informations sur un vitrail permettra sans doute de **donner un nouvel élan à ce médium tout en révélant ceux qui sont actuellement en péril**. Pour conclure notre projet de recherche, *Les vitraux du Québec Stained Glass* admettra **un volet « muséologie » qui documentera les dispositifs de production et de valorisation d’expositions autour du vitrail dans les institutions muséales québécoises**. Répertorier et connaître de telles pratiques permettrait de **faire sortir de l’ombre le vitrail**, ce qui n’est fait que très rarement du fait d’un manque de connaissances du médium et des modalités de son exposition. Il faut voir plus loin que le vitrail *in situ* afin de proposer un contenu attractif de qualité. 
 
 
