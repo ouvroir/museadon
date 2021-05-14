@@ -57,7 +57,7 @@ Face externe de l'un des vitraux civils de la salle de la mer du belvédère de 
   Pour la rédaction de ce tutoriel, je tiens à remercier le webmaster du site https://www.patrimoine-histoire.fr/, véritable référence pour la photographie des verrières en France, ainsi que Jacques Beardsell, photographe de l’atelier de documentation photographique et imagerie scientifique du Centre de conservation du Québec, pour ses renseignements précieux sur les conditions d’une photographie dans le milieu institutionnel. 
   
   
- ## Références et notes ##
+ ## Références et notes
  
   
   [1] Centre André Chastel, « Étudier les vitraux. Des pionniers du Corpus Vitrearum à l’inventaire du patrimoine le plus récent », Centre André Chastel. Laboratoire de recherche en histoire de l’art, 2019, http:// www.centrechastel.paris-sorbonne.fr/actualites/etudier-les-vitraux-des-pionniers-du-corpus-vitrearum-linventaire-du-patrimoine-le-plus
