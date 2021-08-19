@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Valorisation, Conservation et Médiation des verrières à la lumière des technologies minimales : Création d’un projet de base de données numérique à caractère scientifique pour l’étude du vitrail au Québec"
+title: "Valorisation, conservation et médiation des vitraux à la lumière des technologies minimales : un projet de base de données numérique à caractère scientifique pour l'étude du vitrail au Québec"
 author: Franck Calard
 ---
 
