@@ -1,3 +1,15 @@
 theme: minima
 title: ⌘ museadon
 description: Solutions informatiques minimales pour les musées et les institutions patrimoniales
+email: contact@museadon.ca
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# menu
+header_pages:
+  - tutoriaux.md
+  - initiatives.md
+  - participer.md
