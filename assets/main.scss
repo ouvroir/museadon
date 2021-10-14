@@ -1,0 +1,125 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+/*
+  @author emchateau
+  @since 2020-06
+  @version 1.0
+*/
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+:root {
+  /* --colorMain: #fdfdfe; */
+  /* --colorSub: #3f51b5; */ /* #E73E0D */
+  /*--colorAccent: #3f51b5; */ /* #E73E0D */
+  --baseline: 1.5; /* 1.5 * 18 = 27px*/
+  font-size: 1.125em; /* 18px */
+  line-height: var(--baseline);
+}
+
+body {
+  /* background-color: var(--colorSub); */
+  /* color: var(--colorMain); */
+  background: #EFEFEF;
+}
+
+/*
+ * Typography
+ */
+/*
+font-family: 'IBM Plex Sans', sans-serif;
+font-family: 'IBM Plex Sans Condensed', sans-serif;
+font-family: 'IBM Plex Serif', serif;
+font-family: 'IBM Plex Mono', monospace;
+*/
+
+font-family: 'Work Sans', sans-serif;
+
+body {
+  font-family: Work Sans, "Work Sans", Helvetica, Arial, Sans-Serif;
+  font-weight: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Work Sans, "Work Sans Bold", Helvetica, Arial, Sans-Serif;
+  font-style: normal;
+  font-weight: normal;
+}
+
+/* typographic scale https://drewish.com/tools/vertical-rhythm/ */
+h1, h1.post-title {
+  font-size: 2.2222em; /* 40px */
+  line-height: 1.3500; /* 54px */
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.7222em; /* 31px */
+  line-height: 1.7419em; /* 54px */
+  margin-top: auto;
+  margin-bottom: calc( var(--baseline) * 1rem);
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  text-align: center;
+}
+
+/* h2::before {
+  content: '';
+  display: block;
+  // height: 100%;
+  width: 100%;
+  border-bottom: calc( var(--baseline) * 0.2rem) solid ;
+  margin-bottom: calc( var(--baseline) * 0.8rem);
+} */
+
+h3 {
+  font-size: 1.334em; /* 18 * 1.334em = 24px */
+  line-height: 1.125; /* 24 * 1.125 = 27px*/
+  margin-bottom: calc( var(--baseline) * 1rem);
+}
+
+h4 {
+  font-size: 1.2222em; /* 22px */
+  line-height: 1.2273; /* 27px */
+  margin: auto;
+}
+
+h5 {
+  font-size: 1.1111em; /* 20px */
+  line-height: 1.350; /* 27px */
+  margin: auto;
+}
+
+h6 {
+  font-size: 1em;
+  margin: auto;
+}
+
+p {
+  margin-top: auto;
+  margin-bottom: calc(var(--baseline) * 1rem);
+}
+
+sup {
+  vertical-align: middle;
+  font-size: smaller;
+}
+
+sup.note {
+  font-size: 0.7em;
+}
+
+.site-title {
+  font-size: 20px;
+  text-transform: lowercase;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  text-align: center;
+}
